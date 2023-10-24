@@ -1,0 +1,3617 @@
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Received command to execute experiments with 4 rollouts
+Rank 7 sending 10 results
+Rank 5 sending 10 results
+Rank 10 sending 10 results
+Rank 38 sending 10 results
+Rank 4 sending 10 results
+Rank 6 sending 10 results
+Rank 3 sending 10 results
+Rank 1 sending 10 results
+Rank 12 sending 10 results
+Rank 9 sending 10 results
+Rank 11 sending 10 results
+Rank 23 sending 10 results
+Rank 8 sending 10 results
+Rank 2 sending 10 results
+Rank 15 sending 10 results
+Rank 17 sending 10 results
+Rank 14 sending 10 results
+Rank 13 sending 10 results
+Rank 21 sending 10 results
+Rank 16 sending 10 results
+Rank 19 sending 10 results
+Rank 51 sending 10 results
+Rank 46 sending 10 results
+Rank 34 sending 10 results
+Rank 36 sending 10 results
+Rank 18 sending 10 results
+Rank 35 sending 10 results
+Rank 49 sending 10 results
+Rank 50 sending 10 results
+Rank 24 sending 10 results
+Rank 83 sending 10 results
+Rank 27 sending 10 results
+Rank 60 sending 10 results
+Rank 22 sending 10 results
+Rank 25 sending 10 results
+Rank 69 sending 10 results
+Rank 28 sending 10 results
+Rank 78 sending 10 results
+Rank 31 sending 10 results
+Rank 39 sending 10 results
+Rank 45 sending 10 results
+Rank 37 sending 10 results
+Rank 26 sending 10 results
+Rank 42 sending 10 results
+Rank 32 sending 10 results
+Rank 48 sending 10 results
+Rank 41 sending 10 results
+Rank 40 sending 10 results
+Rank 59 sending 10 results
+Rank 30 sending 10 results
+Rank 20 sending 10 results
+Rank 55 sending 10 results
+Rank 65 sending 10 results
+Rank 44 sending 10 results
+Rank 66 sending 10 results
+Rank 74 sending 10 results
+Rank 87 sending 10 results
+Rank 70 sending 10 results
+Rank 33 sending 10 results
+Rank 62 sending 10 results
+Rank 57 sending 10 results
+Rank 54 sending 10 results
+Rank 53 sending 10 results
+Rank 58 sending 10 results
+Rank 61 sending 10 results
+Rank 85 sending 10 results
+Rank 47 sending 10 results
+Rank 76 sending 10 results
+Rank 43 sending 10 results
+Rank 71 sending 10 results
+Rank 90 sending 10 results
+Rank 68 sending 10 results
+Rank 29 sending 10 results
+Rank 91 sending 10 results
+Rank 56 sending 10 results
+Rank 63 sending 10 results
+Rank 80 sending 10 results
+Rank 67 sending 10 results
+Rank 79 sending 10 results
+Rank 75 sending 10 results
+Rank 97 sending 10 results
+Rank 72 sending 10 results
+Rank 81 sending 10 results
+Rank 52 sending 10 results
+Rank 89 sending 10 results
+Rank 82 sending 10 results
+Rank 84 sending 10 results
+Rank 73 sending 10 results
+Rank 96 sending 10 results
+Rank 99 sending 10 results
+Rank 98 sending 10 results
+Rank 94 sending 10 results
+Rank 92 sending 10 results
+Rank 77 sending 10 results
+Rank 93 sending 10 results
+Rank 95 sending 10 results
+Rank 88 sending 10 results
+Rank 86 sending 10 results
+Rank 100 sending 10 results
+Rank 64 sending 10 results
+Power vs. Baseline (4): 0 vs. 0
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Received command to execute experiments with 8 rollouts
+Rank 37 sending 10 results
+Rank 6 sending 10 results
+Rank 43 sending 10 results
+Rank 82 sending 10 results
+Rank 24 sending 10 results
+Rank 67 sending 10 results
+Rank 23 sending 10 results
+Rank 38 sending 10 results
+Rank 91 sending 10 results
+Rank 30 sending 10 results
+Rank 71 sending 10 results
+Rank 4 sending 10 results
+Rank 90 sending 10 results
+Rank 64 sending 10 results
+Rank 13 sending 10 results
+Rank 61 sending 10 results
+Rank 47 sending 10 results
+Rank 8 sending 10 results
+Rank 5 sending 10 results
+Rank 86 sending 10 results
+Rank 81 sending 10 results
+Rank 76 sending 10 results
+Rank 85 sending 10 results
+Rank 26 sending 10 results
+Rank 55 sending 10 results
+Rank 31 sending 10 results
+Rank 87 sending 10 results
+Rank 100 sending 10 results
+Rank 62 sending 10 results
+Rank 60 sending 10 results
+Rank 95 sending 10 results
+Rank 65 sending 10 results
+Rank 22 sending 10 results
+Rank 40 sending 10 results
+Rank 83 sending 10 results
+Rank 93 sending 10 results
+Rank 80 sending 10 results
+Rank 10 sending 10 results
+Rank 78 sending 10 results
+Rank 58 sending 10 results
+Rank 34 sending 10 results
+Rank 1 sending 10 results
+Rank 74 sending 10 results
+Rank 12 sending 10 results
+Rank 18 sending 10 results
+Rank 28 sending 10 results
+Rank 59 sending 10 results
+Rank 92 sending 10 results
+Rank 98 sending 10 results
+Rank 97 sending 10 results
+Rank 89 sending 10 results
+Rank 41 sending 10 results
+Rank 11 sending 10 results
+Rank 45 sending 10 results
+Rank 96 sending 10 results
+Rank 49 sending 10 results
+Rank 75 sending 10 results
+Rank 51 sending 10 results
+Rank 19 sending 10 results
+Rank 79 sending 10 results
+Rank 72 sending 10 results
+Rank 36 sending 10 results
+Rank 84 sending 10 results
+Rank 21 sending 10 results
+Rank 70 sending 10 results
+Rank 39 sending 10 results
+Rank 17 sending 10 results
+Rank 27 sending 10 results
+Rank 29 sending 10 results
+Rank 94 sending 10 results
+Rank 14 sending 10 results
+Rank 56 sending 10 results
+Rank 99 sending 10 results
+Rank 57 sending 10 results
+Rank 20 sending 10 results
+Rank 54 sending 10 results
+Rank 66 sending 10 results
+Rank 25 sending 10 results
+Rank 53 sending 10 results
+Rank 68 sending 10 results
+Rank 33 sending 10 results
+Rank 9 sending 10 results
+Rank 69 sending 10 results
+Rank 7 sending 10 results
+Rank 35 sending 10 results
+Rank 15 sending 10 results
+Rank 88 sending 10 results
+Rank 52 sending 10 results
+Rank 42 sending 10 results
+Rank 63 sending 10 results
+Rank 16 sending 10 results
+Rank 32 sending 10 results
+Rank 48 sending 10 results
+Rank 44 sending 10 results
+Rank 46 sending 10 results
+Rank 3 sending 10 results
+Rank 2 sending 10 results
+Rank 73 sending 10 results
+Rank 50 sending 10 results
+Power vs. Baseline (8): 0 vs. 0
+Rank 77 sending 10 results
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Received command to execute experiments with 16 rollouts
+Rank 46 sending 10 results
+Rank 71 sending 10 results
+Rank 7 sending 10 results
+Rank 97 sending 10 results
+Rank 17 sending 10 results
+Rank 52 sending 10 results
+Rank 94 sending 10 results
+Rank 64 sending 10 results
+Rank 87 sending 10 results
+Rank 49 sending 10 results
+Rank 85 sending 10 results
+Rank 66 sending 10 results
+Rank 61 sending 10 results
+Rank 24 sending 10 results
+Rank 23 sending 10 results
+Rank 91 sending 10 results
+Rank 68 sending 10 results
+Rank 76 sending 10 results
+Rank 75 sending 10 results
+Rank 95 sending 10 results
+Rank 62 sending 10 results
+Rank 25 sending 10 results
+Rank 93 sending 10 results
+Rank 8 sending 10 results
+Rank 82 sending 10 results
+Rank 6 sending 10 results
+Rank 43 sending 10 results
+Rank 19 sending 10 results
+Rank 34 sending 10 results
+Rank 36 sending 10 results
+Rank 100 sending 10 results
+Rank 41 sending 10 results
+Rank 12 sending 10 results
+Rank 59 sending 10 results
+Rank 11 sending 10 results
+Rank 67 sending 10 results
+Rank 81 sending 10 results
+Rank 1 sending 10 results
+Rank 80 sending 10 results
+Rank 38 sending 10 results
+Rank 20 sending 10 results
+Rank 65 sending 10 results
+Rank 4 sending 10 results
+Rank 53 sending 10 results
+Rank 84 sending 10 results
+Rank 37 sending 10 results
+Rank 83 sending 10 results
+Rank 21 sending 10 results
+Rank 74 sending 10 results
+Rank 86 sending 10 results
+Rank 48 sending 10 results
+Rank 29 sending 10 results
+Rank 26 sending 10 results
+Rank 60 sending 10 results
+Rank 57 sending 10 results
+Rank 32 sending 10 results
+Rank 47 sending 10 results
+Rank 22 sending 10 results
+Rank 73 sending 10 results
+Rank 16 sending 10 results
+Rank 78 sending 10 results
+Rank 30 sending 10 results
+Rank 56 sending 10 results
+Rank 77 sending 10 results
+Rank 55 sending 10 results
+Rank 98 sending 10 results
+Rank 44 sending 10 results
+Rank 69 sending 10 results
+Rank 28 sending 10 results
+Rank 40 sending 10 results
+Rank 10 sending 10 results
+Rank 3 sending 10 results
+Rank 79 sending 10 results
+Rank 15 sending 10 results
+Rank 90 sending 10 results
+Rank 92 sending 10 results
+Rank 99 sending 10 results
+Rank 72 sending 10 results
+Rank 58 sending 10 results
+Rank 54 sending 10 results
+Rank 96 sending 10 results
+Rank 89 sending 10 results
+Rank 31 sending 10 results
+Rank 18 sending 10 results
+Rank 63 sending 10 results
+Rank 51 sending 10 results
+Rank 5 sending 10 results
+Rank 33 sending 10 results
+Rank 13 sending 10 results
+Rank 45 sending 10 results
+Rank 14 sending 10 results
+Rank 88 sending 10 results
+Rank 35 sending 10 results
+Rank 42 sending 10 results
+Rank 50 sending 10 results
+Rank 70 sending 10 results
+Rank 27 sending 10 results
+Rank 9 sending 10 results
+Rank 39 sending 10 results
+Rank 2 sending 10 results
+Power vs. Baseline (16): 0 vs. 0
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Received command to execute experiments with 32 rollouts
+Rank 42 sending 10 results
+Rank 52 sending 10 results
+Rank 38 sending 10 results
+Rank 81 sending 10 results
+Rank 92 sending 10 results
+Rank 31 sending 10 results
+Rank 68 sending 10 results
+Rank 51 sending 10 results
+Rank 88 sending 10 results
+Rank 63 sending 10 results
+Rank 11 sending 10 results
+Rank 94 sending 10 results
+Rank 5 sending 10 results
+Rank 45 sending 10 results
+Rank 86 sending 10 results
+Rank 55 sending 10 results
+Rank 97 sending 10 results
+Rank 76 sending 10 results
+Rank 22 sending 10 results
+Rank 41 sending 10 results
+Rank 64 sending 10 results
+Rank 69 sending 10 results
+Rank 33 sending 10 results
+Rank 98 sending 10 results
+Rank 80 sending 10 results
+Rank 17 sending 10 results
+Rank 16 sending 10 results
+Rank 73 sending 10 results
+Rank 30 sending 10 results
+Rank 25 sending 10 results
+Rank 48 sending 10 results
+Rank 28 sending 10 results
+Rank 99 sending 10 results
+Rank 46 sending 10 results
+Rank 79 sending 10 results
+Rank 12 sending 10 results
+Rank 70 sending 10 results
+Rank 58 sending 10 results
+Rank 20 sending 10 results
+Rank 6 sending 10 results
+Rank 14 sending 10 results
+Rank 74 sending 10 results
+Rank 23 sending 10 results
+Rank 54 sending 10 results
+Rank 77 sending 10 results
+Rank 9 sending 10 results
+Rank 71 sending 10 results
+Rank 21 sending 10 results
+Rank 62 sending 10 results
+Rank 85 sending 10 results
+Rank 4 sending 10 results
+Rank 1 sending 10 results
+Rank 82 sending 10 results
+Rank 2 sending 10 results
+Rank 26 sending 10 results
+Rank 35 sending 10 results
+Rank 34 sending 10 results
+Rank 7 sending 10 results
+Rank 100 sending 10 results
+Rank 24 sending 10 results
+Rank 56 sending 10 results
+Rank 43 sending 10 results
+Rank 18 sending 10 results
+Rank 47 sending 10 results
+Rank 66 sending 10 results
+Rank 65 sending 10 results
+Rank 10 sending 10 results
+Rank 50 sending 10 results
+Rank 13 sending 10 results
+Rank 27 sending 10 results
+Rank 96 sending 10 results
+Rank 72 sending 10 results
+Rank 93 sending 10 results
+Rank 59 sending 10 results
+Rank 84 sending 10 results
+Rank 29 sending 10 results
+Rank 44 sending 10 results
+Rank 49 sending 10 results
+Rank 53 sending 10 results
+Rank 40 sending 10 results
+Rank 83 sending 10 results
+Rank 60 sending 10 results
+Rank 78 sending 10 results
+Rank 37 sending 10 results
+Rank 95 sending 10 results
+Rank 57 sending 10 results
+Rank 3 sending 10 results
+Rank 90 sending 10 results
+Rank 75 sending 10 results
+Rank 15 sending 10 results
+Rank 91 sending 10 results
+Rank 89 sending 10 results
+Rank 61 sending 10 results
+Rank 8 sending 10 results
+Rank 19 sending 10 results
+Rank 87 sending 10 results
+Rank 32 sending 10 results
+Rank 36 sending 10 results
+Rank 67 sending 10 results
+Rank 39 sending 10 results
+Power vs. Baseline (32): 0 vs. 0
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Received command to execute experiments with 64 rollouts
+Rank 81 sending 10 results
+Rank 47 sending 10 results
+Rank 10 sending 10 results
+Rank 43 sending 10 results
+Rank 21 sending 10 results
+Rank 25 sending 10 results
+Rank 44 sending 10 results
+Rank 18 sending 10 results
+Rank 52 sending 10 results
+Rank 42 sending 10 results
+Rank 11 sending 10 results
+Rank 46 sending 10 results
+Rank 19 sending 10 results
+Rank 6 sending 10 results
+Rank 61 sending 10 results
+Rank 56 sending 10 results
+Rank 14 sending 10 results
+Rank 13 sending 10 results
+Rank 54 sending 10 results
+Rank 97 sending 10 results
+Rank 74 sending 10 results
+Rank 95 sending 10 results
+Rank 94 sending 10 results
+Rank 73 sending 10 results
+Rank 55 sending 10 results
+Rank 79 sending 10 results
+Rank 36 sending 10 results
+Rank 8 sending 10 results
+Rank 31 sending 10 results
+Rank 38 sending 10 results
+Rank 34 sending 10 results
+Rank 100 sending 10 results
+Rank 92 sending 10 results
+Rank 70 sending 10 results
+Rank 76 sending 10 results
+Rank 58 sending 10 results
+Rank 72 sending 10 results
+Rank 7 sending 10 results
+Rank 88 sending 10 results
+Rank 69 sending 10 results
+Rank 65 sending 10 results
+Rank 87 sending 10 results
+Rank 48 sending 10 results
+Rank 86 sending 10 results
+Rank 59 sending 10 results
+Rank 1 sending 10 results
+Rank 29 sending 10 results
+Rank 26 sending 10 results
+Rank 41 sending 10 results
+Rank 15 sending 10 results
+Rank 60 sending 10 results
+Rank 51 sending 10 results
+Rank 82 sending 10 results
+Rank 98 sending 10 results
+Rank 78 sending 10 results
+Rank 62 sending 10 results
+Rank 39 sending 10 results
+Rank 3 sending 10 results
+Rank 37 sending 10 results
+Rank 24 sending 10 results
+Rank 35 sending 10 results
+Rank 33 sending 10 results
+Rank 75 sending 10 results
+Rank 20 sending 10 results
+Rank 23 sending 10 results
+Rank 93 sending 10 results
+Rank 45 sending 10 results
+Rank 84 sending 10 results
+Rank 83 sending 10 results
+Rank 22 sending 10 results
+Rank 63 sending 10 results
+Rank 4 sending 10 results
+Rank 90 sending 10 results
+Rank 96 sending 10 results
+Rank 85 sending 10 results
+Rank 30 sending 10 results
+Rank 50 sending 10 results
+Rank 5 sending 10 results
+Rank 17 sending 10 results
+Rank 91 sending 10 results
+Rank 64 sending 10 results
+Rank 12 sending 10 results
+Rank 49 sending 10 results
+Rank 99 sending 10 results
+Rank 67 sending 10 results
+Rank 16 sending 10 results
+Rank 57 sending 10 results
+Rank 71 sending 10 results
+Rank 40 sending 10 results
+Rank 68 sending 10 results
+Rank 89 sending 10 results
+Rank 77 sending 10 results
+Rank 66 sending 10 results
+Rank 80 sending 10 results
+Rank 2 sending 10 results
+Rank 9 sending 10 results
+Rank 28 sending 10 results
+Rank 32 sending 10 results
+Rank 27 sending 10 results
+Power vs. Baseline (64): 0 vs. 0
+Rank 53 sending 10 results
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Received command to execute experiments with 128 rollouts
+Rank 28 sending 10 results
+Rank 52 sending 10 results
+Rank 100 sending 10 results
+Rank 78 sending 10 results
+Rank 96 sending 10 results
+Rank 23 sending 10 results
+Rank 83 sending 10 results
+Rank 5 sending 10 results
+Rank 3 sending 10 results
+Rank 4 sending 10 results
+Rank 44 sending 10 results
+Rank 47 sending 10 results
+Rank 66 sending 10 results
+Rank 41 sending 10 results
+Rank 60 sending 10 results
+Rank 30 sending 10 results
+Rank 26 sending 10 results
+Rank 90 sending 10 results
+Rank 40 sending 10 results
+Rank 80 sending 10 results
+Rank 63 sending 10 results
+Rank 14 sending 10 results
+Rank 20 sending 10 results
+Rank 74 sending 10 results
+Rank 95 sending 10 results
+Rank 81 sending 10 results
+Rank 17 sending 10 results
+Rank 9 sending 10 results
+Rank 37 sending 10 results
+Rank 59 sending 10 results
+Rank 62 sending 10 results
+Rank 82 sending 10 results
+Rank 12 sending 10 results
+Rank 51 sending 10 results
+Rank 11 sending 10 results
+Rank 13 sending 10 results
+Rank 85 sending 10 results
+Rank 48 sending 10 results
+Rank 54 sending 10 results
+Rank 76 sending 10 results
+Rank 92 sending 10 results
+Rank 7 sending 10 results
+Rank 42 sending 10 results
+Rank 56 sending 10 results
+Rank 84 sending 10 results
+Rank 93 sending 10 results
+Rank 69 sending 10 results
+Rank 71 sending 10 results
+Rank 77 sending 10 results
+Rank 65 sending 10 results
+Rank 15 sending 10 results
+Rank 87 sending 10 results
+Rank 50 sending 10 results
+Rank 36 sending 10 results
+Rank 68 sending 10 results
+Rank 88 sending 10 results
+Rank 18 sending 10 results
+Rank 38 sending 10 results
+Rank 31 sending 10 results
+Rank 25 sending 10 results
+Rank 33 sending 10 results
+Rank 8 sending 10 results
+Rank 98 sending 10 results
+Rank 53 sending 10 results
+Rank 27 sending 10 results
+Rank 58 sending 10 results
+Rank 70 sending 10 results
+Rank 24 sending 10 results
+Rank 75 sending 10 results
+Rank 99 sending 10 results
+Rank 97 sending 10 results
+Rank 29 sending 10 results
+Rank 2 sending 10 results
+Rank 1 sending 10 results
+Rank 89 sending 10 results
+Rank 39 sending 10 results
+Rank 64 sending 10 results
+Rank 6 sending 10 results
+Rank 10 sending 10 results
+Rank 67 sending 10 results
+Rank 32 sending 10 results
+Rank 45 sending 10 results
+Rank 22 sending 10 results
+Rank 73 sending 10 results
+Rank 49 sending 10 results
+Rank 19 sending 10 results
+Rank 16 sending 10 results
+Rank 34 sending 10 results
+Rank 35 sending 10 results
+Rank 79 sending 10 results
+Rank 43 sending 10 results
+Rank 46 sending 10 results
+Rank 91 sending 10 results
+Rank 21 sending 10 results
+Rank 94 sending 10 results
+Rank 72 sending 10 results
+Rank 55 sending 10 results
+Rank 57 sending 10 results
+Rank 86 sending 10 results
+Rank 61 sending 10 results
+Power vs. Baseline (128): 0 vs. 0
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Received command to execute experiments with 256 rollouts
+Rank 30 sending 10 results
+Rank 58 sending 10 results
+Rank 98 sending 10 results
+Rank 51 sending 10 results
+Rank 92 sending 10 results
+Rank 52 sending 10 results
+Rank 55 sending 10 results
+Rank 14 sending 10 results
+Rank 79 sending 10 results
+Rank 95 sending 10 results
+Rank 31 sending 10 results
+Rank 12 sending 10 results
+Rank 89 sending 10 results
+Rank 32 sending 10 results
+Rank 26 sending 10 results
+Rank 50 sending 10 results
+Rank 85 sending 10 results
+Rank 2 sending 10 results
+Rank 44 sending 10 results
+Rank 57 sending 10 results
+Rank 29 sending 10 results
+Rank 96 sending 10 results
+Rank 13 sending 10 results
+Rank 36 sending 10 results
+Rank 67 sending 10 results
+Rank 83 sending 10 results
+Rank 100 sending 10 results
+Rank 91 sending 10 results
+Rank 59 sending 10 results
+Rank 46 sending 10 results
+Rank 38 sending 10 results
+Rank 11 sending 10 results
+Rank 25 sending 10 results
+Rank 76 sending 10 results
+Rank 48 sending 10 results
+Rank 72 sending 10 results
+Rank 9 sending 10 results
+Rank 28 sending 10 results
+Rank 19 sending 10 results
+Rank 78 sending 10 results
+Rank 40 sending 10 results
+Rank 41 sending 10 results
+Rank 6 sending 10 results
+Rank 54 sending 10 results
+Rank 45 sending 10 results
+Rank 70 sending 10 results
+Rank 74 sending 10 results
+Rank 88 sending 10 results
+Rank 75 sending 10 results
+Rank 8 sending 10 results
+Rank 69 sending 10 results
+Rank 60 sending 10 results
+Rank 16 sending 10 results
+Rank 82 sending 10 results
+Rank 35 sending 10 results
+Rank 37 sending 10 results
+Rank 4 sending 10 results
+Rank 99 sending 10 results
+Rank 62 sending 10 results
+Rank 71 sending 10 results
+Rank 15 sending 10 results
+Rank 42 sending 10 results
+Rank 90 sending 10 results
+Rank 86 sending 10 results
+Rank 93 sending 10 results
+Rank 80 sending 10 results
+Rank 39 sending 10 results
+Rank 68 sending 10 results
+Rank 33 sending 10 results
+Rank 23 sending 10 results
+Rank 22 sending 10 results
+Rank 21 sending 10 results
+Rank 53 sending 10 results
+Rank 65 sending 10 results
+Rank 3 sending 10 results
+Rank 61 sending 10 results
+Rank 87 sending 10 results
+Rank 34 sending 10 results
+Rank 73 sending 10 results
+Rank 7 sending 10 results
+Rank 10 sending 10 results
+Rank 43 sending 10 results
+Rank 77 sending 10 results
+Rank 1 sending 10 results
+Rank 27 sending 10 results
+Rank 18 sending 10 results
+Rank 81 sending 10 results
+Rank 94 sending 10 results
+Rank 20 sending 10 results
+Rank 49 sending 10 results
+Rank 17 sending 10 results
+Rank 5 sending 10 results
+Rank 84 sending 10 results
+Rank 97 sending 10 results
+Rank 47 sending 10 results
+Rank 63 sending 10 results
+Rank 24 sending 10 results
+Rank 64 sending 10 results
+Rank 66 sending 10 results
+Rank 56 sending 10 results
+Power vs. Baseline (256): 0.008 vs. 0.001
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Received command to execute experiments with 512 rollouts
+Rank 3 sending 10 results
+Rank 98 sending 10 results
+Rank 40 sending 10 results
+Rank 20 sending 10 results
+Rank 95 sending 10 results
+Rank 100 sending 10 results
+Rank 35 sending 10 results
+Rank 54 sending 10 results
+Rank 47 sending 10 results
+Rank 73 sending 10 results
+Rank 14 sending 10 results
+Rank 85 sending 10 results
+Rank 59 sending 10 results
+Rank 77 sending 10 results
+Rank 9 sending 10 results
+Rank 37 sending 10 results
+Rank 92 sending 10 results
+Rank 64 sending 10 results
+Rank 89 sending 10 results
+Rank 33 sending 10 results
+Rank 60 sending 10 results
+Rank 16 sending 10 results
+Rank 27 sending 10 results
+Rank 91 sending 10 results
+Rank 43 sending 10 results
+Rank 97 sending 10 results
+Rank 2 sending 10 results
+Rank 72 sending 10 results
+Rank 69 sending 10 results
+Rank 7 sending 10 results
+Rank 53 sending 10 results
+Rank 26 sending 10 results
+Rank 56 sending 10 results
+Rank 22 sending 10 results
+Rank 70 sending 10 results
+Rank 31 sending 10 results
+Rank 80 sending 10 results
+Rank 71 sending 10 results
+Rank 63 sending 10 results
+Rank 19 sending 10 results
+Rank 52 sending 10 results
+Rank 5 sending 10 results
+Rank 94 sending 10 results
+Rank 76 sending 10 results
+Rank 50 sending 10 results
+Rank 30 sending 10 results
+Rank 24 sending 10 results
+Rank 90 sending 10 results
+Rank 81 sending 10 results
+Rank 79 sending 10 results
+Rank 29 sending 10 results
+Rank 4 sending 10 results
+Rank 44 sending 10 results
+Rank 12 sending 10 results
+Rank 23 sending 10 results
+Rank 61 sending 10 results
+Rank 65 sending 10 results
+Rank 78 sending 10 results
+Rank 68 sending 10 results
+Rank 58 sending 10 results
+Rank 11 sending 10 results
+Rank 74 sending 10 results
+Rank 82 sending 10 results
+Rank 34 sending 10 results
+Rank 25 sending 10 results
+Rank 84 sending 10 results
+Rank 13 sending 10 results
+Rank 57 sending 10 results
+Rank 32 sending 10 results
+Rank 67 sending 10 results
+Rank 45 sending 10 results
+Rank 66 sending 10 results
+Rank 55 sending 10 results
+Rank 49 sending 10 results
+Rank 62 sending 10 results
+Rank 10 sending 10 results
+Rank 86 sending 10 results
+Rank 1 sending 10 results
+Rank 96 sending 10 results
+Rank 36 sending 10 results
+Rank 17 sending 10 results
+Rank 51 sending 10 results
+Rank 38 sending 10 results
+Rank 42 sending 10 results
+Rank 99 sending 10 results
+Rank 88 sending 10 results
+Rank 75 sending 10 results
+Rank 28 sending 10 results
+Rank 21 sending 10 results
+Rank 15 sending 10 results
+Rank 87 sending 10 results
+Rank 39 sending 10 results
+Rank 41 sending 10 results
+Rank 83 sending 10 results
+Rank 18 sending 10 results
+Rank 6 sending 10 results
+Rank 8 sending 10 results
+Rank 46 sending 10 results
+Rank 93 sending 10 results
+Rank 48 sending 10 results
+Power vs. Baseline (512): 0.029 vs. 0.008
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Received command to execute experiments with 1024 rollouts
+Rank 70 sending 10 results
+Rank 6 sending 10 results
+Rank 11 sending 10 results
+Rank 72 sending 10 results
+Rank 5 sending 10 results
+Rank 71 sending 10 results
+Rank 19 sending 10 results
+Rank 82 sending 10 results
+Rank 24 sending 10 results
+Rank 80 sending 10 results
+Rank 73 sending 10 results
+Rank 56 sending 10 results
+Rank 7 sending 10 results
+Rank 93 sending 10 results
+Rank 100 sending 10 results
+Rank 1 sending 10 results
+Rank 57 sending 10 results
+Rank 65 sending 10 results
+Rank 23 sending 10 results
+Rank 31 sending 10 results
+Rank 49 sending 10 results
+Rank 9 sending 10 results
+Rank 94 sending 10 results
+Rank 64 sending 10 results
+Rank 50 sending 10 results
+Rank 99 sending 10 results
+Rank 59 sending 10 results
+Rank 91 sending 10 results
+Rank 84 sending 10 results
+Rank 39 sending 10 results
+Rank 43 sending 10 results
+Rank 88 sending 10 results
+Rank 36 sending 10 results
+Rank 13 sending 10 results
+Rank 16 sending 10 results
+Rank 60 sending 10 results
+Rank 10 sending 10 results
+Rank 58 sending 10 results
+Rank 37 sending 10 results
+Rank 47 sending 10 results
+Rank 83 sending 10 results
+Rank 30 sending 10 results
+Rank 8 sending 10 results
+Rank 41 sending 10 results
+Rank 79 sending 10 results
+Rank 66 sending 10 results
+Rank 96 sending 10 results
+Rank 69 sending 10 results
+Rank 18 sending 10 results
+Rank 52 sending 10 results
+Rank 14 sending 10 results
+Rank 35 sending 10 results
+Rank 90 sending 10 results
+Rank 12 sending 10 results
+Rank 46 sending 10 results
+Rank 68 sending 10 results
+Rank 78 sending 10 results
+Rank 38 sending 10 results
+Rank 77 sending 10 results
+Rank 2 sending 10 results
+Rank 21 sending 10 results
+Rank 97 sending 10 results
+Rank 54 sending 10 results
+Rank 44 sending 10 results
+Rank 26 sending 10 results
+Rank 25 sending 10 results
+Rank 45 sending 10 results
+Rank 27 sending 10 results
+Rank 20 sending 10 results
+Rank 95 sending 10 results
+Rank 63 sending 10 results
+Rank 4 sending 10 results
+Rank 53 sending 10 results
+Rank 48 sending 10 results
+Rank 42 sending 10 results
+Rank 17 sending 10 results
+Rank 98 sending 10 results
+Rank 32 sending 10 results
+Rank 3 sending 10 results
+Rank 51 sending 10 results
+Rank 29 sending 10 results
+Rank 33 sending 10 results
+Rank 74 sending 10 results
+Rank 87 sending 10 results
+Rank 61 sending 10 results
+Rank 86 sending 10 results
+Rank 92 sending 10 results
+Rank 34 sending 10 results
+Rank 81 sending 10 results
+Rank 89 sending 10 results
+Rank 67 sending 10 results
+Rank 62 sending 10 results
+Rank 15 sending 10 results
+Rank 22 sending 10 results
+Rank 40 sending 10 results
+Rank 75 sending 10 results
+Rank 28 sending 10 results
+Rank 76 sending 10 results
+Rank 85 sending 10 results
+Rank 55 sending 10 results
+Power vs. Baseline (1024): 0.04 vs. 0.022
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Received command to execute experiments with 2048 rollouts
+Rank 7 sending 10 results
+Rank 87 sending 10 results
+Rank 20 sending 10 results
+Rank 64 sending 10 results
+Rank 90 sending 10 results
+Rank 63 sending 10 results
+Rank 15 sending 10 results
+Rank 95 sending 10 results
+Rank 6 sending 10 results
+Rank 88 sending 10 results
+Rank 10 sending 10 results
+Rank 50 sending 10 results
+Rank 58 sending 10 results
+Rank 72 sending 10 results
+Rank 9 sending 10 results
+Rank 12 sending 10 results
+Rank 31 sending 10 results
+Rank 99 sending 10 results
+Rank 29 sending 10 results
+Rank 23 sending 10 results
+Rank 35 sending 10 results
+Rank 94 sending 10 results
+Rank 5 sending 10 results
+Rank 100 sending 10 results
+Rank 60 sending 10 results
+Rank 78 sending 10 results
+Rank 45 sending 10 results
+Rank 18 sending 10 results
+Rank 53 sending 10 results
+Rank 62 sending 10 results
+Rank 55 sending 10 results
+Rank 79 sending 10 results
+Rank 80 sending 10 results
+Rank 65 sending 10 results
+Rank 70 sending 10 results
+Rank 1 sending 10 results
+Rank 47 sending 10 results
+Rank 56 sending 10 results
+Rank 96 sending 10 results
+Rank 52 sending 10 results
+Rank 75 sending 10 results
+Rank 61 sending 10 results
+Rank 41 sending 10 results
+Rank 98 sending 10 results
+Rank 11 sending 10 results
+Rank 28 sending 10 results
+Rank 91 sending 10 results
+Rank 81 sending 10 results
+Rank 2 sending 10 results
+Rank 76 sending 10 results
+Rank 19 sending 10 results
+Rank 67 sending 10 results
+Rank 44 sending 10 results
+Rank 92 sending 10 results
+Rank 82 sending 10 results
+Rank 4 sending 10 results
+Rank 48 sending 10 results
+Rank 73 sending 10 results
+Rank 33 sending 10 results
+Rank 74 sending 10 results
+Rank 3 sending 10 results
+Rank 59 sending 10 results
+Rank 51 sending 10 results
+Rank 34 sending 10 results
+Rank 38 sending 10 results
+Rank 14 sending 10 results
+Rank 40 sending 10 results
+Rank 8 sending 10 results
+Rank 30 sending 10 results
+Rank 36 sending 10 results
+Rank 22 sending 10 results
+Rank 27 sending 10 results
+Rank 97 sending 10 results
+Rank 69 sending 10 results
+Rank 25 sending 10 results
+Rank 57 sending 10 results
+Rank 83 sending 10 results
+Rank 16 sending 10 results
+Rank 42 sending 10 results
+Rank 37 sending 10 results
+Rank 32 sending 10 results
+Rank 13 sending 10 results
+Rank 43 sending 10 results
+Rank 26 sending 10 results
+Rank 77 sending 10 results
+Rank 85 sending 10 results
+Rank 17 sending 10 results
+Rank 86 sending 10 results
+Rank 24 sending 10 results
+Rank 89 sending 10 results
+Rank 66 sending 10 results
+Rank 54 sending 10 results
+Rank 84 sending 10 results
+Rank 39 sending 10 results
+Rank 93 sending 10 results
+Rank 71 sending 10 results
+Rank 68 sending 10 results
+Rank 49 sending 10 results
+Rank 46 sending 10 results
+Rank 21 sending 10 results
+Power vs. Baseline (2048): 0.078 vs. 0.041
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Received command to execute experiments with 4096 rollouts
+Rank 24 sending 10 results
+Rank 100 sending 10 results
+Rank 68 sending 10 results
+Rank 45 sending 10 results
+Rank 41 sending 10 results
+Rank 78 sending 10 results
+Rank 19 sending 10 results
+Rank 32 sending 10 results
+Rank 8 sending 10 results
+Rank 34 sending 10 results
+Rank 31 sending 10 results
+Rank 56 sending 10 results
+Rank 28 sending 10 results
+Rank 62 sending 10 results
+Rank 65 sending 10 results
+Rank 23 sending 10 results
+Rank 76 sending 10 results
+Rank 50 sending 10 results
+Rank 2 sending 10 results
+Rank 91 sending 10 results
+Rank 64 sending 10 results
+Rank 97 sending 10 results
+Rank 79 sending 10 results
+Rank 81 sending 10 results
+Rank 67 sending 10 results
+Rank 38 sending 10 results
+Rank 82 sending 10 results
+Rank 95 sending 10 results
+Rank 25 sending 10 results
+Rank 21 sending 10 results
+Rank 93 sending 10 results
+Rank 33 sending 10 results
+Rank 37 sending 10 results
+Rank 69 sending 10 results
+Rank 43 sending 10 results
+Rank 80 sending 10 results
+Rank 17 sending 10 results
+Rank 44 sending 10 results
+Rank 98 sending 10 results
+Rank 15 sending 10 results
+Rank 96 sending 10 results
+Rank 71 sending 10 results
+Rank 87 sending 10 results
+Rank 61 sending 10 results
+Rank 74 sending 10 results
+Rank 3 sending 10 results
+Rank 84 sending 10 results
+Rank 70 sending 10 results
+Rank 60 sending 10 results
+Rank 63 sending 10 results
+Rank 12 sending 10 results
+Rank 46 sending 10 results
+Rank 49 sending 10 results
+Rank 83 sending 10 results
+Rank 4 sending 10 results
+Rank 9 sending 10 results
+Rank 66 sending 10 results
+Rank 58 sending 10 results
+Rank 7 sending 10 results
+Rank 59 sending 10 results
+Rank 90 sending 10 results
+Rank 6 sending 10 results
+Rank 27 sending 10 results
+Rank 35 sending 10 results
+Rank 5 sending 10 results
+Rank 55 sending 10 results
+Rank 26 sending 10 results
+Rank 86 sending 10 results
+Rank 1 sending 10 results
+Rank 13 sending 10 results
+Rank 22 sending 10 results
+Rank 48 sending 10 results
+Rank 14 sending 10 results
+Rank 88 sending 10 results
+Rank 85 sending 10 results
+Rank 72 sending 10 results
+Rank 54 sending 10 results
+Rank 73 sending 10 results
+Rank 29 sending 10 results
+Rank 57 sending 10 results
+Rank 94 sending 10 results
+Rank 18 sending 10 results
+Rank 16 sending 10 results
+Rank 42 sending 10 results
+Rank 52 sending 10 results
+Rank 10 sending 10 results
+Rank 77 sending 10 results
+Rank 36 sending 10 results
+Rank 11 sending 10 results
+Rank 99 sending 10 results
+Rank 47 sending 10 results
+Rank 39 sending 10 results
+Rank 40 sending 10 results
+Rank 89 sending 10 results
+Rank 53 sending 10 results
+Rank 20 sending 10 results
+Rank 30 sending 10 results
+Rank 75 sending 10 results
+Rank 92 sending 10 results
+Rank 51 sending 10 results
+Power vs. Baseline (4096): 0.116 vs. 0.078
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Received command to execute experiments with 8192 rollouts
+Rank 21 sending 10 results
+Rank 16 sending 10 results
+Rank 35 sending 10 results
+Rank 75 sending 10 results
+Rank 97 sending 10 results
+Rank 98 sending 10 results
+Rank 78 sending 10 results
+Rank 19 sending 10 results
+Rank 66 sending 10 results
+Rank 41 sending 10 results
+Rank 74 sending 10 results
+Rank 11 sending 10 results
+Rank 55 sending 10 results
+Rank 20 sending 10 results
+Rank 94 sending 10 results
+Rank 23 sending 10 results
+Rank 4 sending 10 results
+Rank 77 sending 10 results
+Rank 67 sending 10 results
+Rank 8 sending 10 results
+Rank 80 sending 10 results
+Rank 61 sending 10 results
+Rank 89 sending 10 results
+Rank 3 sending 10 results
+Rank 60 sending 10 results
+Rank 92 sending 10 results
+Rank 58 sending 10 results
+Rank 51 sending 10 results
+Rank 72 sending 10 results
+Rank 39 sending 10 results
+Rank 6 sending 10 results
+Rank 9 sending 10 results
+Rank 30 sending 10 results
+Rank 25 sending 10 results
+Rank 24 sending 10 results
+Rank 38 sending 10 results
+Rank 86 sending 10 results
+Rank 79 sending 10 results
+Rank 57 sending 10 results
+Rank 76 sending 10 results
+Rank 29 sending 10 results
+Rank 65 sending 10 results
+Rank 49 sending 10 results
+Rank 84 sending 10 results
+Rank 96 sending 10 results
+Rank 63 sending 10 results
+Rank 90 sending 10 results
+Rank 5 sending 10 results
+Rank 99 sending 10 results
+Rank 56 sending 10 results
+Rank 69 sending 10 results
+Rank 44 sending 10 results
+Rank 88 sending 10 results
+Rank 17 sending 10 results
+Rank 73 sending 10 results
+Rank 71 sending 10 results
+Rank 83 sending 10 results
+Rank 64 sending 10 results
+Rank 32 sending 10 results
+Rank 22 sending 10 results
+Rank 68 sending 10 results
+Rank 43 sending 10 results
+Rank 1 sending 10 results
+Rank 54 sending 10 results
+Rank 53 sending 10 results
+Rank 27 sending 10 results
+Rank 82 sending 10 results
+Rank 62 sending 10 results
+Rank 34 sending 10 results
+Rank 26 sending 10 results
+Rank 81 sending 10 results
+Rank 14 sending 10 results
+Rank 36 sending 10 results
+Rank 28 sending 10 results
+Rank 46 sending 10 results
+Rank 45 sending 10 results
+Rank 12 sending 10 results
+Rank 85 sending 10 results
+Rank 100 sending 10 results
+Rank 48 sending 10 results
+Rank 52 sending 10 results
+Rank 18 sending 10 results
+Rank 15 sending 10 results
+Rank 91 sending 10 results
+Rank 93 sending 10 results
+Rank 42 sending 10 results
+Rank 87 sending 10 results
+Rank 33 sending 10 results
+Rank 31 sending 10 results
+Rank 50 sending 10 results
+Rank 40 sending 10 results
+Rank 47 sending 10 results
+Rank 37 sending 10 results
+Rank 10 sending 10 results
+Rank 7 sending 10 results
+Rank 2 sending 10 results
+Rank 95 sending 10 results
+Rank 59 sending 10 results
+Rank 70 sending 10 results
+Rank 13 sending 10 results
+Power vs. Baseline (8192): 0.186 vs. 0.167
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Received command to execute experiments with 16384 rollouts
+Rank 16 sending 10 results
+Rank 8 sending 10 results
+Rank 58 sending 10 results
+Rank 83 sending 10 results
+Rank 41 sending 10 results
+Rank 67 sending 10 results
+Rank 3 sending 10 results
+Rank 94 sending 10 results
+Rank 87 sending 10 results
+Rank 1 sending 10 results
+Rank 30 sending 10 results
+Rank 90 sending 10 results
+Rank 98 sending 10 results
+Rank 7 sending 10 results
+Rank 18 sending 10 results
+Rank 33 sending 10 results
+Rank 15 sending 10 results
+Rank 2 sending 10 results
+Rank 5 sending 10 results
+Rank 37 sending 10 results
+Rank 49 sending 10 results
+Rank 45 sending 10 results
+Rank 42 sending 10 results
+Rank 96 sending 10 results
+Rank 24 sending 10 results
+Rank 11 sending 10 results
+Rank 66 sending 10 results
+Rank 34 sending 10 results
+Rank 81 sending 10 results
+Rank 91 sending 10 results
+Rank 89 sending 10 results
+Rank 75 sending 10 results
+Rank 70 sending 10 results
+Rank 62 sending 10 results
+Rank 35 sending 10 results
+Rank 85 sending 10 results
+Rank 25 sending 10 results
+Rank 65 sending 10 results
+Rank 76 sending 10 results
+Rank 28 sending 10 results
+Rank 13 sending 10 results
+Rank 48 sending 10 results
+Rank 99 sending 10 results
+Rank 9 sending 10 results
+Rank 39 sending 10 results
+Rank 23 sending 10 results
+Rank 26 sending 10 results
+Rank 31 sending 10 results
+Rank 40 sending 10 results
+Rank 44 sending 10 results
+Rank 36 sending 10 results
+Rank 97 sending 10 results
+Rank 72 sending 10 results
+Rank 10 sending 10 results
+Rank 93 sending 10 results
+Rank 92 sending 10 results
+Rank 74 sending 10 results
+Rank 57 sending 10 results
+Rank 84 sending 10 results
+Rank 82 sending 10 results
+Rank 77 sending 10 results
+Rank 27 sending 10 results
+Rank 21 sending 10 results
+Rank 64 sending 10 results
+Rank 100 sending 10 results
+Rank 52 sending 10 results
+Rank 14 sending 10 results
+Rank 20 sending 10 results
+Rank 68 sending 10 results
+Rank 95 sending 10 results
+Rank 17 sending 10 results
+Rank 51 sending 10 results
+Rank 63 sending 10 results
+Rank 56 sending 10 results
+Rank 4 sending 10 results
+Rank 78 sending 10 results
+Rank 43 sending 10 results
+Rank 6 sending 10 results
+Rank 73 sending 10 results
+Rank 12 sending 10 results
+Rank 29 sending 10 results
+Rank 54 sending 10 results
+Rank 79 sending 10 results
+Rank 60 sending 10 results
+Rank 69 sending 10 results
+Rank 32 sending 10 results
+Rank 38 sending 10 results
+Rank 80 sending 10 results
+Rank 22 sending 10 results
+Rank 61 sending 10 results
+Rank 59 sending 10 results
+Rank 50 sending 10 results
+Rank 71 sending 10 results
+Rank 46 sending 10 results
+Rank 55 sending 10 results
+Rank 86 sending 10 results
+Rank 19 sending 10 results
+Rank 53 sending 10 results
+Rank 47 sending 10 results
+Rank 88 sending 10 results
+Power vs. Baseline (16384): 0.291 vs. 0.245
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Received command to execute experiments with 32768 rollouts
+Rank 46 sending 10 results
+Rank 74 sending 10 results
+Rank 78 sending 10 results
+Rank 42 sending 10 results
+Rank 68 sending 10 results
+Rank 19 sending 10 results
+Rank 38 sending 10 results
+Rank 91 sending 10 results
+Rank 67 sending 10 results
+Rank 65 sending 10 results
+Rank 44 sending 10 results
+Rank 30 sending 10 results
+Rank 61 sending 10 results
+Rank 66 sending 10 results
+Rank 52 sending 10 results
+Rank 71 sending 10 results
+Rank 93 sending 10 results
+Rank 39 sending 10 results
+Rank 94 sending 10 results
+Rank 45 sending 10 results
+Rank 100 sending 10 results
+Rank 54 sending 10 results
+Rank 79 sending 10 results
+Rank 99 sending 10 results
+Rank 8 sending 10 results
+Rank 47 sending 10 results
+Rank 64 sending 10 results
+Rank 55 sending 10 results
+Rank 10 sending 10 results
+Rank 87 sending 10 results
+Rank 3 sending 10 results
+Rank 82 sending 10 results
+Rank 59 sending 10 results
+Rank 88 sending 10 results
+Rank 89 sending 10 results
+Rank 60 sending 10 results
+Rank 6 sending 10 results
+Rank 83 sending 10 results
+Rank 36 sending 10 results
+Rank 40 sending 10 results
+Rank 48 sending 10 results
+Rank 69 sending 10 results
+Rank 51 sending 10 results
+Rank 80 sending 10 results
+Rank 37 sending 10 results
+Rank 43 sending 10 results
+Rank 26 sending 10 results
+Rank 72 sending 10 results
+Rank 81 sending 10 results
+Rank 95 sending 10 results
+Rank 58 sending 10 results
+Rank 77 sending 10 results
+Rank 75 sending 10 results
+Rank 97 sending 10 results
+Rank 1 sending 10 results
+Rank 28 sending 10 results
+Rank 56 sending 10 results
+Rank 12 sending 10 results
+Rank 49 sending 10 results
+Rank 57 sending 10 results
+Rank 73 sending 10 results
+Rank 7 sending 10 results
+Rank 17 sending 10 results
+Rank 63 sending 10 results
+Rank 53 sending 10 results
+Rank 85 sending 10 results
+Rank 16 sending 10 results
+Rank 90 sending 10 results
+Rank 98 sending 10 results
+Rank 11 sending 10 results
+Rank 23 sending 10 results
+Rank 22 sending 10 results
+Rank 2 sending 10 results
+Rank 5 sending 10 results
+Rank 41 sending 10 results
+Rank 76 sending 10 results
+Rank 24 sending 10 results
+Rank 4 sending 10 results
+Rank 86 sending 10 results
+Rank 35 sending 10 results
+Rank 50 sending 10 results
+Rank 25 sending 10 results
+Rank 9 sending 10 results
+Rank 27 sending 10 results
+Rank 62 sending 10 results
+Rank 18 sending 10 results
+Rank 96 sending 10 results
+Rank 20 sending 10 results
+Rank 29 sending 10 results
+Rank 14 sending 10 results
+Rank 70 sending 10 results
+Rank 31 sending 10 results
+Rank 34 sending 10 results
+Rank 33 sending 10 results
+Rank 21 sending 10 results
+Rank 84 sending 10 results
+Rank 32 sending 10 results
+Rank 13 sending 10 results
+Rank 15 sending 10 results
+Rank 92 sending 10 results
+Power vs. Baseline (32768): 0.486 vs. 0.353
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Received command to execute experiments with 65536 rollouts
+Rank 37 sending 10 results
+Rank 67 sending 10 results
+Rank 70 sending 10 results
+Rank 92 sending 10 results
+Rank 43 sending 10 results
+Rank 32 sending 10 results
+Rank 10 sending 10 results
+Rank 82 sending 10 results
+Rank 5 sending 10 results
+Rank 96 sending 10 results
+Rank 1 sending 10 results
+Rank 77 sending 10 results
+Rank 13 sending 10 results
+Rank 75 sending 10 results
+Rank 52 sending 10 results
+Rank 98 sending 10 results
+Rank 11 sending 10 results
+Rank 95 sending 10 results
+Rank 14 sending 10 results
+Rank 48 sending 10 results
+Rank 3 sending 10 results
+Rank 26 sending 10 results
+Rank 38 sending 10 results
+Rank 93 sending 10 results
+Rank 50 sending 10 results
+Rank 97 sending 10 results
+Rank 27 sending 10 results
+Rank 90 sending 10 results
+Rank 80 sending 10 results
+Rank 20 sending 10 results
+Rank 24 sending 10 results
+Rank 56 sending 10 results
+Rank 91 sending 10 results
+Rank 34 sending 10 results
+Rank 53 sending 10 results
+Rank 100 sending 10 results
+Rank 42 sending 10 results
+Rank 33 sending 10 results
+Rank 28 sending 10 results
+Rank 40 sending 10 results
+Rank 23 sending 10 results
+Rank 25 sending 10 results
+Rank 94 sending 10 results
+Rank 15 sending 10 results
+Rank 41 sending 10 results
+Rank 30 sending 10 results
+Rank 55 sending 10 results
+Rank 31 sending 10 results
+Rank 84 sending 10 results
+Rank 73 sending 10 results
+Rank 78 sending 10 results
+Rank 35 sending 10 results
+Rank 99 sending 10 results
+Rank 44 sending 10 results
+Rank 54 sending 10 results
+Rank 12 sending 10 results
+Rank 57 sending 10 results
+Rank 22 sending 10 results
+Rank 69 sending 10 results
+Rank 2 sending 10 results
+Rank 60 sending 10 results
+Rank 29 sending 10 results
+Rank 19 sending 10 results
+Rank 74 sending 10 results
+Rank 4 sending 10 results
+Rank 76 sending 10 results
+Rank 63 sending 10 results
+Rank 81 sending 10 results
+Rank 36 sending 10 results
+Rank 88 sending 10 results
+Rank 85 sending 10 results
+Rank 71 sending 10 results
+Rank 51 sending 10 results
+Rank 8 sending 10 results
+Rank 66 sending 10 results
+Rank 61 sending 10 results
+Rank 49 sending 10 results
+Rank 65 sending 10 results
+Rank 72 sending 10 results
+Rank 21 sending 10 results
+Rank 64 sending 10 results
+Rank 86 sending 10 results
+Rank 83 sending 10 results
+Rank 87 sending 10 results
+Rank 6 sending 10 results
+Rank 58 sending 10 results
+Rank 39 sending 10 results
+Rank 79 sending 10 results
+Rank 17 sending 10 results
+Rank 59 sending 10 results
+Rank 9 sending 10 results
+Rank 46 sending 10 results
+Rank 47 sending 10 results
+Rank 7 sending 10 results
+Rank 45 sending 10 results
+Rank 18 sending 10 results
+Rank 68 sending 10 results
+Rank 62 sending 10 results
+Rank 16 sending 10 results
+Rank 89 sending 10 results
+Power vs. Baseline (65536): 0.618 vs. 0.531
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Received command to execute experiments with 131072 rollouts
+Rank 35 sending 10 results
+Rank 58 sending 10 results
+Rank 27 sending 10 results
+Rank 10 sending 10 results
+Rank 6 sending 10 results
+Rank 64 sending 10 results
+Rank 95 sending 10 results
+Rank 56 sending 10 results
+Rank 61 sending 10 results
+Rank 67 sending 10 results
+Rank 47 sending 10 results
+Rank 49 sending 10 results
+Rank 65 sending 10 results
+Rank 4 sending 10 results
+Rank 92 sending 10 results
+Rank 77 sending 10 results
+Rank 19 sending 10 results
+Rank 12 sending 10 results
+Rank 28 sending 10 results
+Rank 24 sending 10 results
+Rank 42 sending 10 results
+Rank 50 sending 10 results
+Rank 86 sending 10 results
+Rank 37 sending 10 results
+Rank 1 sending 10 results
+Rank 36 sending 10 results
+Rank 79 sending 10 results
+Rank 39 sending 10 results
+Rank 5 sending 10 results
+Rank 91 sending 10 results
+Rank 52 sending 10 results
+Rank 89 sending 10 results
+Rank 7 sending 10 results
+Rank 33 sending 10 results
+Rank 99 sending 10 results
+Rank 43 sending 10 results
+Rank 13 sending 10 results
+Rank 63 sending 10 results
+Rank 17 sending 10 results
+Rank 87 sending 10 results
+Rank 83 sending 10 results
+Rank 75 sending 10 results
+Rank 62 sending 10 results
+Rank 30 sending 10 results
+Rank 11 sending 10 results
+Rank 97 sending 10 results
+Rank 60 sending 10 results
+Rank 26 sending 10 results
+Rank 3 sending 10 results
+Rank 82 sending 10 results
+Rank 70 sending 10 results
+Rank 90 sending 10 results
+Rank 93 sending 10 results
+Rank 8 sending 10 results
+Rank 51 sending 10 results
+Rank 23 sending 10 results
+Rank 94 sending 10 results
+Rank 71 sending 10 results
+Rank 31 sending 10 results
+Rank 54 sending 10 results
+Rank 40 sending 10 results
+Rank 34 sending 10 results
+Rank 21 sending 10 results
+Rank 100 sending 10 results
+Rank 80 sending 10 results
+Rank 96 sending 10 results
+Rank 25 sending 10 results
+Rank 72 sending 10 results
+Rank 45 sending 10 results
+Rank 66 sending 10 results
+Rank 74 sending 10 results
+Rank 9 sending 10 results
+Rank 14 sending 10 results
+Rank 15 sending 10 results
+Rank 38 sending 10 results
+Rank 2 sending 10 results
+Rank 84 sending 10 results
+Rank 73 sending 10 results
+Rank 59 sending 10 results
+Rank 98 sending 10 results
+Rank 68 sending 10 results
+Rank 32 sending 10 results
+Rank 16 sending 10 results
+Rank 22 sending 10 results
+Rank 41 sending 10 results
+Rank 48 sending 10 results
+Rank 20 sending 10 results
+Rank 55 sending 10 results
+Rank 29 sending 10 results
+Rank 44 sending 10 results
+Rank 57 sending 10 results
+Rank 78 sending 10 results
+Rank 88 sending 10 results
+Rank 53 sending 10 results
+Rank 69 sending 10 results
+Rank 85 sending 10 results
+Rank 46 sending 10 results
+Rank 76 sending 10 results
+Rank 81 sending 10 results
+Rank 18 sending 10 results
+Power vs. Baseline (131072): 0.741 vs. 0.654
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Received command to execute experiments with 200000 rollouts
+Rank 90 sending 10 results
+Rank 16 sending 10 results
+Rank 41 sending 10 results
+Rank 45 sending 10 results
+Rank 62 sending 10 results
+Rank 5 sending 10 results
+Rank 29 sending 10 results
+Rank 7 sending 10 results
+Rank 93 sending 10 results
+Rank 17 sending 10 results
+Rank 76 sending 10 results
+Rank 83 sending 10 results
+Rank 67 sending 10 results
+Rank 65 sending 10 results
+Rank 20 sending 10 results
+Rank 22 sending 10 results
+Rank 40 sending 10 results
+Rank 52 sending 10 results
+Rank 99 sending 10 results
+Rank 19 sending 10 results
+Rank 18 sending 10 results
+Rank 2 sending 10 results
+Rank 96 sending 10 results
+Rank 91 sending 10 results
+Rank 12 sending 10 results
+Rank 98 sending 10 results
+Rank 8 sending 10 results
+Rank 39 sending 10 results
+Rank 73 sending 10 results
+Rank 95 sending 10 results
+Rank 9 sending 10 results
+Rank 49 sending 10 results
+Rank 56 sending 10 results
+Rank 78 sending 10 results
+Rank 89 sending 10 results
+Rank 74 sending 10 results
+Rank 68 sending 10 results
+Rank 13 sending 10 results
+Rank 43 sending 10 results
+Rank 69 sending 10 results
+Rank 23 sending 10 results
+Rank 6 sending 10 results
+Rank 50 sending 10 results
+Rank 85 sending 10 results
+Rank 46 sending 10 results
+Rank 1 sending 10 results
+Rank 94 sending 10 results
+Rank 66 sending 10 results
+Rank 54 sending 10 results
+Rank 32 sending 10 results
+Rank 3 sending 10 results
+Rank 44 sending 10 results
+Rank 4 sending 10 results
+Rank 88 sending 10 results
+Rank 55 sending 10 results
+Rank 25 sending 10 results
+Rank 61 sending 10 results
+Rank 48 sending 10 results
+Rank 34 sending 10 results
+Rank 10 sending 10 results
+Rank 24 sending 10 results
+Rank 28 sending 10 results
+Rank 100 sending 10 results
+Rank 38 sending 10 results
+Rank 87 sending 10 results
+Rank 21 sending 10 results
+Rank 59 sending 10 results
+Rank 60 sending 10 results
+Rank 86 sending 10 results
+Rank 77 sending 10 results
+Rank 79 sending 10 results
+Rank 72 sending 10 results
+Rank 37 sending 10 results
+Rank 33 sending 10 results
+Rank 42 sending 10 results
+Rank 15 sending 10 results
+Rank 84 sending 10 results
+Rank 70 sending 10 results
+Rank 75 sending 10 results
+Rank 92 sending 10 results
+Rank 35 sending 10 results
+Rank 80 sending 10 results
+Rank 58 sending 10 results
+Rank 63 sending 10 results
+Rank 97 sending 10 results
+Rank 64 sending 10 results
+Rank 47 sending 10 results
+Rank 36 sending 10 results
+Rank 11 sending 10 results
+Rank 14 sending 10 results
+Rank 71 sending 10 results
+Rank 27 sending 10 results
+Rank 82 sending 10 results
+Rank 26 sending 10 results
+Rank 51 sending 10 results
+Rank 57 sending 10 results
+Rank 31 sending 10 results
+Rank 81 sending 10 results
+Rank 30 sending 10 results
+Rank 53 sending 10 results
+Power vs. Baseline (200000): 0.767 vs. 0.671
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+Shutting down the worker
+[1567022480.062144] [hpb0488:17069:0]          mpool.c:38   UCX  WARN  object 0x2b9692c99fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063089] [hpb0489:27990:0]          mpool.c:38   UCX  WARN  object 0x2af4063cafc0 was not returned to mpool ucp_am_bufs
+[1567022480.062289] [hpb0489:27993:0]          mpool.c:38   UCX  WARN  object 0x2b57a6e30fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063384] [hpb0489:27999:0]          mpool.c:38   UCX  WARN  object 0x2b93aeda8fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063418] [hpb0489:27989:0]          mpool.c:38   UCX  WARN  object 0x2b791e9fefc0 was not returned to mpool ucp_am_bufs
+[1567022480.066678] [hpb0497:6291 :0]          mpool.c:38   UCX  WARN  object 0x2ac64ba0dfc0 was not returned to mpool ucp_am_bufs
+[1567022480.065675] [hpb0497:6302 :0]          mpool.c:38   UCX  WARN  object 0x2b0a07d66fc0 was not returned to mpool ucp_am_bufs
+[1567022480.066534] [hpb0497:6296 :0]          mpool.c:38   UCX  WARN  object 0x2b14d3273fc0 was not returned to mpool ucp_am_bufs
+[1567022480.066514] [hpb0497:6294 :0]          mpool.c:38   UCX  WARN  object 0x2b094af13fc0 was not returned to mpool ucp_am_bufs
+[1567022480.077778] [hpb0473:24550:0]          mpool.c:38   UCX  WARN  object 0x2ae66a90cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.078344] [hpb0484:12158:0]          mpool.c:38   UCX  WARN  object 0x2b06a2af7fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078406] [hpb0484:12166:0]          mpool.c:38   UCX  WARN  object 0x2aad42d78fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078356] [hpb0484:12167:0]          mpool.c:38   UCX  WARN  object 0x2af34c101fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090269] [hpb0486:19993:0]          mpool.c:38   UCX  WARN  object 0x2b2533a00fc0 was not returned to mpool ucp_am_bufs
+[1567022480.086659] [hpb0487:31225:0]          mpool.c:38   UCX  WARN  object 0x2b695a69bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.086090] [hpb0487:31213:0]          mpool.c:38   UCX  WARN  object 0x2ad81299cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.086145] [hpb0487:31217:0]          mpool.c:38   UCX  WARN  object 0x2adc461a4fc0 was not returned to mpool ucp_am_bufs
+[1567022480.092118] [hpb0482:19646:0]          mpool.c:38   UCX  WARN  object 0x2b93771b8fc0 was not returned to mpool ucp_am_bufs
+[1567022480.091002] [hpb0482:19636:0]          mpool.c:38   UCX  WARN  object 0x2b07db8d0fc0 was not returned to mpool ucp_am_bufs
+[1567022480.091482] [hpb0482:19640:0]          mpool.c:38   UCX  WARN  object 0x2b8b52353fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063449] [hpb0489:27991:0]          mpool.c:38   UCX  WARN  object 0x2b4c0b7e5fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063213] [hpb0489:27997:0]          mpool.c:38   UCX  WARN  object 0x2b34cbd64fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063880] [hpb0489:27995:0]          mpool.c:38   UCX  WARN  object 0x2b036ae8dfc0 was not returned to mpool ucp_am_bufs
+[1567022480.064487] [hpb0489:27998:0]          mpool.c:38   UCX  WARN  object 0x2b59cba64fc0 was not returned to mpool ucp_am_bufs
+[1567022480.064252] [hpb0489:27996:0]          mpool.c:38   UCX  WARN  object 0x2b620f5ccfc0 was not returned to mpool ucp_am_bufs
+[1567022480.063558] [hpb0489:27994:0]          mpool.c:38   UCX  WARN  object 0x2ad18bc48fc0 was not returned to mpool ucp_am_bufs
+[1567022480.061863] [hpb0488:17074:0]          mpool.c:38   UCX  WARN  object 0x2b88bfa07fc0 was not returned to mpool ucp_am_bufs
+[1567022480.062378] [hpb0489:27988:0]          mpool.c:38   UCX  WARN  object 0x2b7657dbdfc0 was not returned to mpool ucp_am_bufs
+[1567022480.064285] [hpb0489:27992:0]          mpool.c:38   UCX  WARN  object 0x2b62ca8c8fc0 was not returned to mpool ucp_am_bufs
+[1567022480.061928] [hpb0488:17073:0]          mpool.c:38   UCX  WARN  object 0x2b8633f79fc0 was not returned to mpool ucp_am_bufs
+[1567022480.062101] [hpb0488:17075:0]          mpool.c:38   UCX  WARN  object 0x2b873ab62fc0 was not returned to mpool ucp_am_bufs
+[1567022480.068558] [hpb0497:6292 :0]          mpool.c:38   UCX  WARN  object 0x2ab0cb788fc0 was not returned to mpool ucp_am_bufs
+[1567022480.067546] [hpb0497:6301 :0]          mpool.c:38   UCX  WARN  object 0x2ac1e4363fc0 was not returned to mpool ucp_am_bufs
+[1567022480.067568] [hpb0497:6299 :0]          mpool.c:38   UCX  WARN  object 0x2ac7fa807fc0 was not returned to mpool ucp_am_bufs
+[1567022480.067396] [hpb0497:6295 :0]          mpool.c:38   UCX  WARN  object 0x2ac14ba20fc0 was not returned to mpool ucp_am_bufs
+[1567022480.066600] [hpb0497:6298 :0]          mpool.c:38   UCX  WARN  object 0x2b038ae5bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.062068] [hpb0488:17077:0]          mpool.c:38   UCX  WARN  object 0x2b4c7bbeffc0 was not returned to mpool ucp_am_bufs
+[1567022480.066512] [hpb0497:6297 :0]          mpool.c:38   UCX  WARN  object 0x2aca571e6fc0 was not returned to mpool ucp_am_bufs
+[1567022480.067580] [hpb0497:6300 :0]          mpool.c:38   UCX  WARN  object 0x2ab02a702fc0 was not returned to mpool ucp_am_bufs
+[1567022480.068558] [hpb0497:6293 :0]          mpool.c:38   UCX  WARN  object 0x2afa5396bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.063857] [hpb0488:17071:0]          mpool.c:38   UCX  WARN  object 0x2b915af89fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063002] [hpb0488:17072:0]          mpool.c:38   UCX  WARN  object 0x2afcfc30bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.062057] [hpb0488:17067:0]          mpool.c:38   UCX  WARN  object 0x2b71bf449fc0 was not returned to mpool ucp_am_bufs
+[1567022480.063030] [hpb0488:17076:0]          mpool.c:38   UCX  WARN  object 0x2b86f4206fc0 was not returned to mpool ucp_am_bufs
+[1567022480.062006] [hpb0488:17070:0]          mpool.c:38   UCX  WARN  object 0x2ad44ff14fc0 was not returned to mpool ucp_am_bufs
+[1567022480.062924] [hpb0488:17066:0]          mpool.c:38   UCX  WARN  object 0x2ac32b380fc0 was not returned to mpool ucp_am_bufs
+[1567022480.062099] [hpb0488:17068:0]          mpool.c:38   UCX  WARN  object 0x2b301ea40fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078337] [hpb0484:12162:0]          mpool.c:38   UCX  WARN  object 0x2b55d7be3fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078973] [hpb0484:12160:0]          mpool.c:38   UCX  WARN  object 0x2b350acb2fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078228] [hpb0484:12156:0]          mpool.c:38   UCX  WARN  object 0x2b6e93026fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078336] [hpb0484:12159:0]          mpool.c:38   UCX  WARN  object 0x2ba4233eafc0 was not returned to mpool ucp_am_bufs
+[1567022480.078291] [hpb0484:12163:0]          mpool.c:38   UCX  WARN  object 0x2ac546702fc0 was not returned to mpool ucp_am_bufs
+[1567022480.079308] [hpb0484:12168:0]          mpool.c:38   UCX  WARN  object 0x2b52be965fc0 was not returned to mpool ucp_am_bufs
+[1567022480.077946] [hpb0473:24557:0]          mpool.c:38   UCX  WARN  object 0x2ad73397efc0 was not returned to mpool ucp_am_bufs
+[1567022480.079361] [hpb0484:12164:0]          mpool.c:38   UCX  WARN  object 0x2ad8bb6acfc0 was not returned to mpool ucp_am_bufs
+[1567022480.078230] [hpb0484:12157:0]          mpool.c:38   UCX  WARN  object 0x2b5e3fcb8fc0 was not returned to mpool ucp_am_bufs
+[1567022480.079824] [hpb0484:12161:0]          mpool.c:38   UCX  WARN  object 0x2b5bde345fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078586] [hpb0473:24553:0]          mpool.c:38   UCX  WARN  object 0x2b4227482fc0 was not returned to mpool ucp_am_bufs
+[1567022480.079528] [hpb0484:12165:0]          mpool.c:38   UCX  WARN  object 0x2ba7731f6fc0 was not returned to mpool ucp_am_bufs
+[1567022480.077431] [hpb0473:24551:0]          mpool.c:38   UCX  WARN  object 0x2b6fefb82fc0 was not returned to mpool ucp_am_bufs
+[1567022480.092588] [hpb0482:19647:0]          mpool.c:38   UCX  WARN  object 0x2adcff70cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.086071] [hpb0487:31220:0]          mpool.c:38   UCX  WARN  object 0x2ad7f364afc0 was not returned to mpool ucp_am_bufs
+[1567022480.077471] [hpb0473:24554:0]          mpool.c:38   UCX  WARN  object 0x2ac56280bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.092763] [hpb0482:19639:0]          mpool.c:38   UCX  WARN  object 0x2b90a7560fc0 was not returned to mpool ucp_am_bufs
+[1567022480.085994] [hpb0487:31222:0]          mpool.c:38   UCX  WARN  object 0x2b69df7befc0 was not returned to mpool ucp_am_bufs
+[1567022480.077515] [hpb0473:24549:0]          mpool.c:38   UCX  WARN  object 0x2b0e0e297fc0 was not returned to mpool ucp_am_bufs
+[1567022480.078512] [hpb0473:24552:0]          mpool.c:38   UCX  WARN  object 0x2b20f375bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.086576] [hpb0487:31219:0]          mpool.c:38   UCX  WARN  object 0x2b856c558fc0 was not returned to mpool ucp_am_bufs
+[1567022480.086898] [hpb0487:31221:0]          mpool.c:38   UCX  WARN  object 0x2b984c3cbfc0 was not returned to mpool ucp_am_bufs
+[1567022480.092741] [hpb0482:19642:0]          mpool.c:38   UCX  WARN  object 0x2aefd390cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.076944] [hpb0473:24556:0]          mpool.c:38   UCX  WARN  object 0x2b4be2f26fc0 was not returned to mpool ucp_am_bufs
+[1567022480.077414] [hpb0473:24548:0]          mpool.c:38   UCX  WARN  object 0x2b3ab3f0cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.077274] [hpb0473:24547:0]          mpool.c:38   UCX  WARN  object 0x2ae0a756ffc0 was not returned to mpool ucp_am_bufs
+[1567022480.078749] [hpb0473:24555:0]          mpool.c:38   UCX  WARN  object 0x2acd4b444fc0 was not returned to mpool ucp_am_bufs
+[1567022480.093340] [hpb0482:19641:0]          mpool.c:38   UCX  WARN  object 0x2b253700cfc0 was not returned to mpool ucp_am_bufs
+[1567022480.078948] [hpb0473:24558:0]          mpool.c:38   UCX  WARN  object 0x2b959b840fc0 was not returned to mpool ucp_am_bufs
+[1567022480.086716] [hpb0487:31218:0]          mpool.c:38   UCX  WARN  object 0x2b454f930fc0 was not returned to mpool ucp_am_bufs
+[1567022480.091934] [hpb0482:19635:0]          mpool.c:38   UCX  WARN  object 0x2ae9de1c9fc0 was not returned to mpool ucp_am_bufs
+[1567022480.092138] [hpb0482:19638:0]          mpool.c:38   UCX  WARN  object 0x2b8ea3564fc0 was not returned to mpool ucp_am_bufs
+[1567022480.085898] [hpb0487:31214:0]          mpool.c:38   UCX  WARN  object 0x2ba4b05eafc0 was not returned to mpool ucp_am_bufs
+[1567022480.092785] [hpb0482:19644:0]          mpool.c:38   UCX  WARN  object 0x2abe46baefc0 was not returned to mpool ucp_am_bufs
+[1567022480.091109] [hpb0486:19999:0]          mpool.c:38   UCX  WARN  object 0x2aefe8206fc0 was not returned to mpool ucp_am_bufs
+[1567022480.088676] [hpb0487:31215:0]          mpool.c:38   UCX  WARN  object 0x2ad1db9a6fc0 was not returned to mpool ucp_am_bufs
+[1567022480.088655] [hpb0487:31216:0]          mpool.c:38   UCX  WARN  object 0x2acdcaae9fc0 was not returned to mpool ucp_am_bufs
+[1567022480.086278] [hpb0487:31224:0]          mpool.c:38   UCX  WARN  object 0x2aac12ed2fc0 was not returned to mpool ucp_am_bufs
+[1567022480.092786] [hpb0482:19643:0]          mpool.c:38   UCX  WARN  object 0x2b88cc607fc0 was not returned to mpool ucp_am_bufs
+[1567022480.092751] [hpb0482:19637:0]          mpool.c:38   UCX  WARN  object 0x2b3bdc613fc0 was not returned to mpool ucp_am_bufs
+[1567022480.088708] [hpb0487:31223:0]          mpool.c:38   UCX  WARN  object 0x2b6086a5bfc0 was not returned to mpool ucp_am_bufs
+[1567022480.092811] [hpb0482:19645:0]          mpool.c:38   UCX  WARN  object 0x2b67cb7e2fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090258] [hpb0486:20001:0]          mpool.c:38   UCX  WARN  object 0x2b29b7158fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090159] [hpb0486:19996:0]          mpool.c:38   UCX  WARN  object 0x2b02a3eb8fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090152] [hpb0486:19998:0]          mpool.c:38   UCX  WARN  object 0x2aaf18206fc0 was not returned to mpool ucp_am_bufs
+[1567022480.089948] [hpb0486:19995:0]          mpool.c:38   UCX  WARN  object 0x2b27845c3fc0 was not returned to mpool ucp_am_bufs
+[1567022480.091722] [hpb0486:20002:0]          mpool.c:38   UCX  WARN  object 0x2b08c6221fc0 was not returned to mpool ucp_am_bufs
+[1567022480.091034] [hpb0486:20004:0]          mpool.c:38   UCX  WARN  object 0x2aec627bdfc0 was not returned to mpool ucp_am_bufs
+[1567022480.091065] [hpb0486:19991:0]          mpool.c:38   UCX  WARN  object 0x2aca1c450fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090150] [hpb0486:19992:0]          mpool.c:38   UCX  WARN  object 0x2aab061cbfc0 was not returned to mpool ucp_am_bufs
+[1567022480.090790] [hpb0486:19997:0]          mpool.c:38   UCX  WARN  object 0x2afd4ad83fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090209] [hpb0486:20000:0]          mpool.c:38   UCX  WARN  object 0x2aec73144fc0 was not returned to mpool ucp_am_bufs
+[1567022480.090235] [hpb0486:19994:0]          mpool.c:38   UCX  WARN  object 0x2b0e8745cfc0 was not returned to mpool ucp_am_bufs
