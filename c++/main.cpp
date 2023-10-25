@@ -226,7 +226,7 @@ int main(int argc, char *argv[]) {
     rollout_map.insert(make_pair("copy_large", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
                                                                  8192, 16384, 32768})));
     rollout_map.insert(make_pair("copy_xxlarge", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
-                                                                   8192, 16384, 32768, 65536})));
+                                                                   8192, 16384, 32768})));
 //    rollout_map.insert(make_pair("copy_xxlarge", vector<uint32_t>({65536})));
     rollout_map.insert(make_pair("frozen_lake", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
                                                                   8192, 16384, 32768})));
