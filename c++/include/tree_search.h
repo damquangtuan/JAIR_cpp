@@ -675,7 +675,7 @@ namespace poweruct {
             // Empty the q_values list and initialize all the values to a very large one (this encourages exploration
             // of non-visited nodes)
             for (uint32_t i = 0; i < this->na; i++) {
-                q_values.emplace_back(1e10/this->tau);
+                q_values.emplace_back(0.0);
                 visit_frequencies.emplace_back(1);
             }
 
