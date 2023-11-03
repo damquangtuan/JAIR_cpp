@@ -660,7 +660,7 @@ namespace poweruct {
             static std::vector<double> Q_sp_max (this->na);
 
             q_values.clear();
-            qs.clear();
+//            qs.clear();
             visit_frequencies.clear();
             likelihoods.clear();
             K.clear();
@@ -675,7 +675,7 @@ namespace poweruct {
             // Empty the q_values list and initialize all the values to a very large one (this encourages exploration
             // of non-visited nodes)
             for (uint32_t i = 0; i < this->na; i++) {
-                q_values.emplace_back(0.0);
+                q_values.emplace_back(1e5);
                 visit_frequencies.emplace_back(1);
             }
 
@@ -688,9 +688,9 @@ namespace poweruct {
             qs = q_values;
             sort(q_values.begin(), q_values.end(), std::greater<double>());
 
-            for (int i = 0; i < this->na; i++) {
+//            for (int i = 0; i < this->na; i++) {
 //                std::cout << "q_values: " << i << " " << q_values[i] << std::endl;
-            }
+//            }
 
             double sum_of_elems = std::accumulate(q_values.begin(), q_values.end(), 0);
 
@@ -702,9 +702,9 @@ namespace poweruct {
                 Q_cumsum[i] = cumsum;
             }
 
-            for (int i = 0; i < this->na; i++) {
+//            for (int i = 0; i < this->na; i++) {
 //                std::cout << "Q_cumsum: " << i << " " << Q_cumsum[i] << std::endl;
-            }
+//            }
 
             for (int i = 0; i < this->na; i++) {
                 if (1 + (K[i] * q_values[i]) > Q_cumsum[i]) Q_check.emplace_back(1);
@@ -721,6 +721,16 @@ namespace poweruct {
             for (uint32_t i = 0; i < this->na; i++) {
                 double pi_i = std::max(double(qs[i] - sp_max), double(0));
                 likelihoods.emplace_back(pi_i);
+            }
+
+            double total_likelihood = 0.0;
+            for (uint32_t i = 0; i < this->na; i++) {
+                total_likelihood += likelihoods[i];
+            }
+
+
+            for (uint32_t i = 0; i < this->na; i++) {
+                likelihoods[i] /= total_likelihood;
             }
 
             double total_visits = 0.;
