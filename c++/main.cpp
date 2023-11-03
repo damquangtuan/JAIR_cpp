@@ -228,8 +228,10 @@ int main(int argc, char *argv[]) {
     rollout_map.insert(make_pair("copy_xxlarge", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
                                                                    8192, 16384, 32768, 65536})));
 //    rollout_map.insert(make_pair("copy_xxlarge", vector<uint32_t>({65536})));
-    rollout_map.insert(make_pair("frozen_lake", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
-                                                                  8192, 16384, 32768})));
+//    rollout_map.insert(make_pair("frozen_lake", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
+//                                                                  8192, 16384, 32768})));
+    rollout_map.insert(make_pair("frozen_lake", vector<uint32_t>({4096, 16384, 65536, 262144})));
+
     rollout_map.insert(make_pair("frozen_lake_ext", vector<uint32_t>({4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
                                                                       8192, 16384, 32768, 65536, 131072, 262144,
                                                                       350000})));
