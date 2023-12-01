@@ -6,13 +6,15 @@ import cairo
 
 class VNode(ABC):
 
-    def __init__(self, s, q_nodes, h):
+    def __init__(self, s, q_nodes, h, id=0):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
         self.state = s
         self.h = h
         self.q_nodes = q_nodes
+        self.id = id
+
         super(VNode, self).__init__()
 
     def select_greedy_action(self, h=None):
@@ -65,9 +67,9 @@ class TerminalVNode:
 
 class UCBVNode(VNode):
 
-    def __init__(self, s, q_nodes, h, alpha=4, **extra_args):
+    def __init__(self, s, q_nodes, h, alpha=4, id=0, **extra_args):
         self.alpha = alpha
-        super(UCBVNode, self).__init__(s, q_nodes, h)
+        super(UCBVNode, self).__init__(s, q_nodes, h,id)
 
     def select_action(self, h=None):
         if h is None:
@@ -83,7 +85,7 @@ class UCBVNode(VNode):
 
 class QNode:
 
-    def __init__(self, ns, h, discount_factor, **extra_args):
+    def __init__(self, ns, h, discount_factor, id=0, **extra_args):
         self.discount_factor = discount_factor
         self.h = h
 
@@ -93,6 +95,7 @@ class QNode:
 
         self.immediate_rewards = 0.
         self.total_visits = 0.
+        self.id = id
 
     def update(self, reward, next_state):
         self.immediate_rewards += reward
@@ -126,7 +129,7 @@ class QNode:
 class SearchTree:
 
     def __init__(self, simulator, initial_state, no, na, discount_factor, max_depth=100, h=1, vnode=VNode, qnode=QNode,
-                 **extra_args):
+                 seed=0, **extra_args):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
@@ -140,6 +143,7 @@ class SearchTree:
         self.vnode_const = vnode
         self.simulator = simulator
         self.root = self.expand_node(TerminalVNode(initial_state, h, 0.))
+        self.seed = seed
 
     def progress_tree(self, action, next_state):
         self.root = self.root.get_children(action).get_children(next_state)
@@ -161,10 +165,10 @@ class SearchTree:
 
         return new_node
 
-    def search(self, n_runs=1000, visualize=False):
-        for i in range(0, n_runs):
-            if visualize:
-                self.visualize()
+    def search(self, n_runs=100, visualize=True):
+        for i in range(12, n_runs):
+            if i%100 == 0 and visualize:
+                self.visualize(runs=i)
 
             current_depth = 1
             q_nodes = []
@@ -196,7 +200,8 @@ class SearchTree:
             for q, r, obs in zip(reversed(q_nodes), reversed(rewards), reversed(observations)):
                 q.update(r, obs)
 
-    def _parse_tree(self, current, node_map, cur_id, edges):
+    def _parse_tree(self, current, node_map, cur_id, edges, set_color=0):
+        current.id = cur_id
         this_id = cur_id
         node_map[this_id] = current
         cur_id += 1
@@ -225,26 +230,38 @@ class SearchTree:
         if issubclass(type(node), VNode):
             vs, ns = node.compute_values()
             ret = ""
-            for i in range(0, self.h):
-                ret += "(%.2f, %d)" % (vs[i], ns[i]) + "\n"
+            ret += "(%.2f, %d)" % (vs[0], ns[0]) + "\n"
+            # for i in range(0, self.h):
+            #     ret += "(%.2f, %d)" % (vs[i], ns[i]) + "\n"
             return ret
         elif issubclass(type(node), QNode):
             ret = ""
-            for i in range(0, self.h):
-                q = node.get_q(i)
-                n = node.get_n(i)
-                ret += "(%.2f, %d)" % (q, n) + "\n"
-
+            q = node.get_q(0)
+            n = node.get_n(0)
+            ret += "(%.2f, %d)" % (q, n) + "\n"
+            # for i in range(0, self.h):
+            #     q = node.get_q(i)
+            #     n = node.get_n(i)
+            #     ret += "(%.2f, %d)" % (q, n) + "\n"
             return ret
         else:
             vs, ns = node.compute_values()
             return "(%.2f, %d)" % (vs[0], ns[0])
 
-    def visualize(self, tree=None):
+    def visualize(self, runs=0, tree=None):
         # First we create a mapping of a ids to tree nodes as well as the edges between the nodes
         node_map = {}
         edges = []
         second_root = self._parse_tree(self.root, node_map, 0, edges)
+
+        max_id = 0
+        cur_max = 0
+        for a in range(0, self.na):
+            # The child will for sure have the current id
+            child = self.root.get_children(a)
+            if child.get_q() > cur_max:
+                max_id = child.id
+                cur_max = child.get_q()
 
         if tree is not None:
             tree._parse_tree(tree.root, node_map, second_root, edges)
@@ -253,10 +270,15 @@ class SearchTree:
         g = igraph.Graph(n=len(node_map), directed=True)
         g.add_edges(edges)
 
+        # for e in edges:
+        #     if e[0] == max_id or e[1] == max_id:
+        #         g.es[max_id]['color'] = 'red'
+
         # Finally we print the tree
-        colors = ["red" if issubclass(type(node_map[i]), QNode) else "blue" if issubclass(type(node_map[i]),
+        colors = ["brown" if issubclass(type(node_map[i]), QNode) else "blue" if issubclass(type(node_map[i]),
                                                                                           VNode) else "yellow" for i in
                   g.vs.indices]
+        colors[max_id] = "red"
         labels = [self._create_label(node_map[i]) if i < second_root else tree._create_label(node_map[i]) for i in g.vs.indices]
         lay = g.layout_reingold_tilford(root=[0, second_root])
 
@@ -267,4 +289,7 @@ class SearchTree:
         pl = igraph.Plot(bbox=(200 + (x_lim[1] - x_lim[0]) * 60, 200 + (y_lim[1] - y_lim[0]) * 60), background="white")
         pl.add(g, layout=lay, margin=40, vertex_size=40, vertex_color=colors, vertex_label=labels,
                vertex_label_dist=1.2, vertex_label_size=10)
-        pl.show()
+        # pl.show()
+        outfile = './logs_visual_tree/uct_myfile_' + str(runs) + '_' + str(self.seed) + '.jpeg'
+        # igraph.plot(g, target=outfile)
+        pl.save(fname=outfile)

@@ -1,20 +1,23 @@
 import igraph
 from abc import ABC, abstractmethod
+from scipy.special import logsumexp
+from scipy.stats import norm
+
 import numpy as np
 import cairo
 
 
 class VNode(ABC):
 
-    def __init__(self, s, q_nodes, h, alpha, power,id=0):
+    def __init__(self, s, q_nodes, h, id=0):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
         self.state = s
         self.h = h
         self.q_nodes = q_nodes
-        self.alpha = alpha
-        self.power = power
+        self.tau = .1
+        self.exploration = 0.5
         self.id = id
         super(VNode, self).__init__()
 
@@ -37,8 +40,21 @@ class VNode(ABC):
         # For the non-greedy value we just compute the average
         n_0 = np.array([node.get_n(0) for node in self.q_nodes])
         visits = [np.sum(n_0)]
-        values = [np.power(np.sum(n_0 * np.array([np.power(node.get_q(0), self.power)
-                                                  for node in self.q_nodes])) / visits[0],1.0/self.power)]
+        qs = np.array([node.get_q(0) for node in self.q_nodes])
+
+        q_tau = qs / self.tau
+        temp_q_tau = q_tau.copy()
+        sorted_q = np.flip(np.sort(temp_q_tau))
+        kappa = list()
+        for i in range(1, len(sorted_q) + 1):
+            if 1 + i * sorted_q[i-1] > sorted_q[:i].sum():
+                idx = np.argwhere(temp_q_tau == sorted_q[i-1]).ravel()[0]
+                temp_q_tau[idx] = np.nan
+                kappa.append(idx)
+        kappa = np.array(kappa)
+        sparse_max = q_tau[kappa] ** 2 / 2 - (q_tau[kappa].sum() - 1) ** 2 / (2 * len(kappa) ** 2)
+        sparse_max = sparse_max.sum() + .5
+        values = [self.tau * sparse_max]
 
         # Now comes the greedy horizons
         for h in range(1, self.h):
@@ -69,9 +85,9 @@ class TerminalVNode:
 
 class UCBVNode(VNode):
 
-    def __init__(self, s, q_nodes, h, alpha, power, id=0, **extra_args):
+    def __init__(self, s, q_nodes, h, alpha=4, **extra_args):
         self.alpha = alpha
-        super(UCBVNode, self).__init__(s, q_nodes, h, alpha,power,id)
+        super(UCBVNode, self).__init__(s, q_nodes, h)
 
     def select_action(self, h=None):
         if h is None:
@@ -79,14 +95,32 @@ class UCBVNode(VNode):
         elif h >= self.h:
             raise RuntimeError("h too large! Maximum allowed value: " + str(self.h))
 
-        # vists0 = np.array([node.get_n(0) for node in self.q_nodes])
-        vists = np.array([node.get_n(h) for node in self.q_nodes])
-        exploration_bonus = self.alpha * np.sqrt(np.log(np.sum(vists)) / vists)
-        return np.argmax(np.array([node.get_q(h) for node in self.q_nodes]) + exploration_bonus)
+        n_state_action = np.array([node.get_n(h) for node in self.q_nodes])
+        n_actions = len(self.q_nodes)
+        qs = np.array([node.get_q(h) for node in self.q_nodes])
+        lambda_coeff = np.clip(self.exploration * n_actions / np.log(np.sum(n_state_action) + 1 + 1e-10),
+                               0, 1)
+
+        q_tau = qs / self.tau
+        temp_q_tau = q_tau.copy()
+        sorted_q = np.flip(np.sort(temp_q_tau))
+        kappa = list()
+        for i in range(1, len(sorted_q) + 1):
+            if 1 + i * sorted_q[i-1] > sorted_q[:i].sum():
+                idx = np.argwhere(temp_q_tau == sorted_q[i-1]).ravel()[0]
+                temp_q_tau[idx] = np.nan
+                kappa.append(idx)
+        kappa = np.array(kappa)
+
+        max_omega = np.maximum(q_tau - (q_tau[kappa].sum() - 1) / len(kappa),
+                               np.zeros(len(q_tau)))
+        probs = (1 - lambda_coeff) * max_omega + lambda_coeff / n_actions
+        return np.random.choice(np.arange(n_actions), p=probs)
+
 
 class QNode:
 
-    def __init__(self, ns, h, discount_factor, id=0, **extra_args):
+    def __init__(self, ns, h, discount_factor, **extra_args):
         self.discount_factor = discount_factor
         self.h = h
 
@@ -96,7 +130,6 @@ class QNode:
 
         self.immediate_rewards = 0.
         self.total_visits = 0.
-        self.id = id
 
     def update(self, reward, next_state):
         self.immediate_rewards += reward
@@ -129,8 +162,8 @@ class QNode:
 
 class SearchTree:
 
-    def __init__(self, simulator, initial_state, no, na, discount_factor, max_depth=100, h=1,
-                 vnode=VNode, qnode=QNode,alpha=1.41,power=1.0, seed=0, **extra_args):
+    def __init__(self, simulator, initial_state, no, na, discount_factor, max_depth=100, h=1, vnode=VNode, qnode=QNode,
+                 seed=0,**extra_args):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
@@ -141,12 +174,8 @@ class SearchTree:
         self.discount_factor = discount_factor
         self.max_depth = max_depth
         self.qnode_const = qnode
-        vnode.power = power
-        vnode.alpha = alpha
         self.vnode_const = vnode
         self.simulator = simulator
-        self.power = power
-        self.alpha = alpha
         self.root = self.expand_node(TerminalVNode(initial_state, h, 0.))
         self.seed = seed
 
@@ -166,7 +195,7 @@ class SearchTree:
             q_node.set_children(observation, dummy)
             q_node.update(reward, observation)
             q_nodes.append(q_node)
-        new_node = self.vnode_const(state, q_nodes, self.h,self.alpha,self.power, **self.extra_args)
+        new_node = self.vnode_const(state, q_nodes, self.h, **self.extra_args)
 
         return new_node
 
@@ -281,6 +310,7 @@ class SearchTree:
                                                                                           VNode) else "yellow" for i in
                   g.vs.indices]
         colors[max_id] = "red"
+
         labels = [self._create_label(node_map[i]) if i < second_root else tree._create_label(node_map[i]) for i in g.vs.indices]
         lay = g.layout_reingold_tilford(root=[0, second_root])
 
@@ -292,6 +322,6 @@ class SearchTree:
         pl.add(g, layout=lay, margin=40, vertex_size=40, vertex_color=colors, vertex_label=labels,
                vertex_label_dist=1.2, vertex_label_size=10)
         # pl.show()
-        outfile = './logs_visual_tree/uctp_myfile_' + str(runs) + '_' + str(self.seed) + '.jpeg'
+        outfile = './logs_visual_tree/tents_myfile_' + str(runs) + '_' + str(self.seed) + '.jpeg'
         # igraph.plot(g, target=outfile)
         pl.save(fname=outfile)

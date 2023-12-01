@@ -652,7 +652,6 @@ namespace poweruct {
             // Avoid continuous reallocation
             static std::vector<double> q_values;
             static std::vector<double> qs (this->na);
-            static std::vector<double> visit_frequencies;
             static std::vector<double> likelihoods;
             static std::vector<int> K;
             static std::vector<double> Q_cumsum (this->na);
@@ -660,8 +659,7 @@ namespace poweruct {
             static std::vector<double> Q_sp_max (this->na);
 
             q_values.clear();
-//            qs.clear();
-            visit_frequencies.clear();
+            qs.clear();
             likelihoods.clear();
             K.clear();
             Q_cumsum.clear();
@@ -674,37 +672,29 @@ namespace poweruct {
 
             // Empty the q_values list and initialize all the values to a very large one (this encourages exploration
             // of non-visited nodes)
+            q_values.clear();
             for (uint32_t i = 0; i < this->na; i++) {
-                q_values.emplace_back(1e5);
-                visit_frequencies.emplace_back(1);
+                q_values.push_back(1e6);
             }
 
             // Set the q_values of those nodes that have already been visited
+            uint32_t total_visits = 0;
             for (auto const &child : this->q_stats) {
                 q_values[child.first] = std::get<0>(child.second)/this->tau;
-                visit_frequencies[child.first] = ((double) std::get<1>(child.second));
+                total_visits += std::get<1>(child.second);
             }
 
-            qs = q_values;
+            for (int i = 0; i < this->na; i++) {
+                qs[i] = q_values[i];
+            }
+
             sort(q_values.begin(), q_values.end(), std::greater<double>());
-
-//            for (int i = 0; i < this->na; i++) {
-//                std::cout << "q_values: " << i << " " << q_values[i] << std::endl;
-//            }
-
-            double sum_of_elems = std::accumulate(q_values.begin(), q_values.end(), 0);
-
-//            std::partial_sum(q_values.begin(), q_values.end(), Q_cumsum.begin());
 
             double cumsum = 0;
             for (int i = 0; i < this->na; i++) {
                 cumsum += q_values[i];
                 Q_cumsum[i] = cumsum;
             }
-
-//            for (int i = 0; i < this->na; i++) {
-//                std::cout << "Q_cumsum: " << i << " " << Q_cumsum[i] << std::endl;
-//            }
 
             for (int i = 0; i < this->na; i++) {
                 if (1 + (K[i] * q_values[i]) > Q_cumsum[i]) Q_check.emplace_back(1);
@@ -728,18 +718,12 @@ namespace poweruct {
                 total_likelihood += likelihoods[i];
             }
 
-
             for (uint32_t i = 0; i < this->na; i++) {
                 likelihoods[i] /= total_likelihood;
             }
 
-            double total_visits = 0.;
-            for (uint32_t i = 0; i < this->na; i++) {
-                total_visits += visit_frequencies[i];
-            }
-
             // Toss a coin to decide between a random choice and the on-policy choice
-            double lambda = (epsilon * ((double) this->na)) / log(total_visits + 1.);
+            double lambda = (epsilon * ((double) this->na)) / log(((double) total_visits) + 1);
             if (this->random_utils->sample_uniform() > lambda) {
                 return this->random_utils->sample_discrete(likelihoods);
             } else {
@@ -751,7 +735,6 @@ namespace poweruct {
             // Avoid continuous reallocation
             static std::vector<double> q_values (this->na);
             static std::vector<double> qs (this->na);
-            static std::vector<double> visit_frequencies;
             static std::vector<int> K;
             static std::vector<double> Q_cumsum (this->na);
             static std::vector<int> Q_check (this->na);
@@ -759,7 +742,6 @@ namespace poweruct {
 
             q_values.clear();
             qs.clear();
-            visit_frequencies.clear();
             K.clear();
             Q_cumsum.clear();
             Q_check.clear();
@@ -770,8 +752,6 @@ namespace poweruct {
             uint32_t total_visits = this->get_pre_exp_visits();
             for (auto const &child : this->q_stats) {
                 q_values.emplace_back(std::get<0>(child.second)/this->tau);
-//                visit_frequencies.push_back(1); //std::get<1>(child.second));
-                visit_frequencies.emplace_back(std::get<1>(child.second));
                 total_visits += std::get<1>(child.second);
             }
 
@@ -781,7 +761,11 @@ namespace poweruct {
                 for (int i = 1; i <= this->na; i++) {
                     K.emplace_back(i);
                 }
-                qs = q_values;
+//                qs = q_values;
+                for (int i = 0; i < this->na; i++) {
+                    qs[i] = q_values[i];
+                }
+
                 sort(q_values.begin(), q_values.end(), std::greater<double>());
                 double sum_of_elems = std::accumulate(q_values.begin(), q_values.end(), 0);
 
@@ -807,7 +791,7 @@ namespace poweruct {
 
                 double V = 0;
                 for (int i = 0; i < this->na; i++) {
-                    if (Q_sp_max[i] == 0) break;
+                    if (Q_sp_max[i] == 0) continue;
                     V += (Q_sp_max[i] * Q_sp_max[i]) - (sp_max * sp_max);
                 }
 

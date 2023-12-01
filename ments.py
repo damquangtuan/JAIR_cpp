@@ -1,20 +1,23 @@
 import igraph
 from abc import ABC, abstractmethod
+from scipy.special import logsumexp
+from scipy.stats import norm
+
 import numpy as np
 import cairo
 
 
 class VNode(ABC):
 
-    def __init__(self, s, q_nodes, h, alpha, power,id=0):
+    def __init__(self, s, q_nodes, h, id=0):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
         self.state = s
         self.h = h
         self.q_nodes = q_nodes
-        self.alpha = alpha
-        self.power = power
+        self.tau = .1
+        self.exploration = 0.5
         self.id = id
         super(VNode, self).__init__()
 
@@ -37,8 +40,8 @@ class VNode(ABC):
         # For the non-greedy value we just compute the average
         n_0 = np.array([node.get_n(0) for node in self.q_nodes])
         visits = [np.sum(n_0)]
-        values = [np.power(np.sum(n_0 * np.array([np.power(node.get_q(0), self.power)
-                                                  for node in self.q_nodes])) / visits[0],1.0/self.power)]
+        qs = np.array([node.get_q(0) for node in self.q_nodes])
+        values = [self.tau * logsumexp(qs / self.tau)]
 
         # Now comes the greedy horizons
         for h in range(1, self.h):
@@ -69,9 +72,9 @@ class TerminalVNode:
 
 class UCBVNode(VNode):
 
-    def __init__(self, s, q_nodes, h, alpha, power, id=0, **extra_args):
+    def __init__(self, s, q_nodes, h, alpha=4, id=0, **extra_args):
         self.alpha = alpha
-        super(UCBVNode, self).__init__(s, q_nodes, h, alpha,power,id)
+        super(UCBVNode, self).__init__(s, q_nodes, h,id)
 
     def select_action(self, h=None):
         if h is None:
@@ -79,10 +82,16 @@ class UCBVNode(VNode):
         elif h >= self.h:
             raise RuntimeError("h too large! Maximum allowed value: " + str(self.h))
 
-        # vists0 = np.array([node.get_n(0) for node in self.q_nodes])
-        vists = np.array([node.get_n(h) for node in self.q_nodes])
-        exploration_bonus = self.alpha * np.sqrt(np.log(np.sum(vists)) / vists)
-        return np.argmax(np.array([node.get_q(h) for node in self.q_nodes]) + exploration_bonus)
+        n_state_action = np.array([node.get_n(h) for node in self.q_nodes])
+        n_actions = len(self.q_nodes)
+        qs = np.array([node.get_q(h) for node in self.q_nodes])
+        lambda_coeff = np.clip(self.exploration * n_actions / np.log(np.sum(n_state_action) + 1 + 1e-10),
+                               0, 1)
+        q_exp_tau = np.exp(qs / self.tau)
+        probs = (1 - lambda_coeff) * q_exp_tau / q_exp_tau.sum() + lambda_coeff / n_actions
+
+        return np.random.choice(np.arange(n_actions), p=probs)
+
 
 class QNode:
 
@@ -129,8 +138,8 @@ class QNode:
 
 class SearchTree:
 
-    def __init__(self, simulator, initial_state, no, na, discount_factor, max_depth=100, h=1,
-                 vnode=VNode, qnode=QNode,alpha=1.41,power=1.0, seed=0, **extra_args):
+    def __init__(self, simulator, initial_state, no, na, discount_factor, max_depth=100, h=1, vnode=VNode, qnode=QNode,
+                 seed=0,**extra_args):
         if h < 1:
             raise RuntimeError("Invalid greedieness: " + str(h))
 
@@ -141,14 +150,10 @@ class SearchTree:
         self.discount_factor = discount_factor
         self.max_depth = max_depth
         self.qnode_const = qnode
-        vnode.power = power
-        vnode.alpha = alpha
         self.vnode_const = vnode
         self.simulator = simulator
-        self.power = power
-        self.alpha = alpha
         self.root = self.expand_node(TerminalVNode(initial_state, h, 0.))
-        self.seed = seed
+        self.seed=seed
 
     def progress_tree(self, action, next_state):
         self.root = self.root.get_children(action).get_children(next_state)
@@ -166,7 +171,7 @@ class SearchTree:
             q_node.set_children(observation, dummy)
             q_node.update(reward, observation)
             q_nodes.append(q_node)
-        new_node = self.vnode_const(state, q_nodes, self.h,self.alpha,self.power, **self.extra_args)
+        new_node = self.vnode_const(state, q_nodes, self.h, **self.extra_args)
 
         return new_node
 
@@ -292,6 +297,6 @@ class SearchTree:
         pl.add(g, layout=lay, margin=40, vertex_size=40, vertex_color=colors, vertex_label=labels,
                vertex_label_dist=1.2, vertex_label_size=10)
         # pl.show()
-        outfile = './logs_visual_tree/uctp_myfile_' + str(runs) + '_' + str(self.seed) + '.jpeg'
+        outfile = './logs_visual_tree/ments_myfile_' + str(runs) + '_' + str(self.seed) + '.jpeg'
         # igraph.plot(g, target=outfile)
         pl.save(fname=outfile)

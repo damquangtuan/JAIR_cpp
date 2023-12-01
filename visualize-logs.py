@@ -240,36 +240,36 @@ def main():
     # paths = [["c++/build/copy-small-log-3", "c++/build/copy-small-log-20", "c++/build/copy-small-log-max"],
     #          ["c++/build/copy-log-3", "c++/build/copy-log-20", "c++/build/copy-log-max"]]
     paths = [["c++/build_old/log-100-power_uct-copy-0.25-1.",
-              # "c++/build_new/log-100-power_uct-copy-0.25-3.",
+              "c++/build_old/log-100-power_uct-copy-0.25-3.",
               # "c++/build_new/log-100-power_uct-copy-0.25-20.",
               "c++/build_old/log-100-max_uct-copy-0.25",
               "c++/build_old/log-100-max_entropy-copy-0.1-0.",
-              "c++/bin/log-100-max_entropy_ucb-copy-1.0-0.0",
+              # "c++/bin/log-100-max_entropy_ucb-copy-1.0-0.0",
               "c++/bin/log-100-reps-copy-.08-.0",
-              "c++/bin/log-100-reps_ucb-copy-1.0-0.0"],
+              "c++/build/log-100-tsallis-copy-1.-0"],
              ["c++/build_old/log-100-power_uct-copy_large-0.25-1.",
-              # "c++/build_new/log-100-power_uct-copy_large-0.25-3.",
+              "c++/build_old/log-100-power_uct-copy_large-0.25-3.",
               # "c++/build_new/log-100-power_uct-copy_large-0.25-20.",
               "c++/build_old/log-100-max_uct-copy_large-0.25",
               "c++/build_old/log-100-max_entropy-copy_large-0.1-0.",
-              "c++/bin/log-100-max_entropy_ucb-copy_large-1.0-0.0",
+              # "c++/bin/log-100-max_entropy_ucb-copy_large-1.0-0.0",
               "c++/bin/log-100-reps-copy_large-.08-.0",
-              "c++/bin/log-100-reps_ucb-copy_large-1.0-0.0"],
+              "c++/build/log-100-tsallis-copy_large-1.-.0"],
              ["c++/bin/log-100-power_uct-copy_xxlarge-0.25-1",
-              # "c++/build_new/log-100-power_uct-copy_large-0.25-3.",
+              "c++/build_old/log-100-power_uct-copy_large-0.25-3.",
               # "c++/build_new/log-100-power_uct-copy_large-0.25-20.",
               "c++/bin/log-100-max_uct-copy_xxlarge-0.25",
               "c++/bin/log-100-max_entropy-copy_xxlarge-.08-.0",
-              "c++/bin/log-100-max_entropy_ucb-copy_xxlarge-1.0-0.0",
+              # "c++/bin/log-100-max_entropy_ucb-copy_xxlarge-1.0-0.0",
               "c++/bin/log-100-reps-copy_xxlarge-.08-.0",
-              "c++/bin/log-100-reps_ucb-copy_xxlarge-1.0-0.0"]
+              "c++/build/log-100-tsallis-copy_xxlarge-1.-0"]
              ]
 
     max_ns = [40000, 40000, 40000]
     ticks = [6000, 12000, 18000]
     # limits = [0, 20000]
-    # labels = ["UCT", "Power-UCT (p=3)", "Power-UCT (p=20)", "Power-UCT (p=max)", "MENTS"]
-    labels = ["UCT", "Max-UCT", "MENTS", "MENTS-UCB", "RENTS", "RENTS-UCB"]
+    labels = ["UCT", "Power-UCT (p=3)", "Power-UCT (p=max)", "MENTS", "RENTS"]
+    # labels = ["UCT", "Max-UCT", "MENTS", "MENTS-UCB", "RENTS", "RENTS-UCB"]
 
 
     f, ax = plt.subplots(len(paths), 1, sharex=True, figsize=(3.5, 8))
@@ -285,6 +285,32 @@ def main():
             ns.append(n_cur)
             data.append(data_cur)
             var.append(var_cur)
+
+            if i == 1:
+                if j == 0:
+                    print("UCT: ")
+                elif j == 1:
+                    print("Power-UCT (p=3): ")
+                elif j == 2:
+                    print("Power-UCT (p=max): ")
+                elif j == 3:
+                    print("ments: ")
+                elif j == 4:
+                    print("reps: ")
+                elif j == 5:
+                    print("tents: ")
+
+                print(", n_cur: " + str(n_cur[7]) + ", data_cur: " + str(data_cur[7])
+                      + ", var_cur: " + str(2*np.sqrt(var_cur[7])) + "\n")
+
+                print(", n_cur: " + str(n_cur[9]) + ", data_cur: " + str(data_cur[9])
+                      + ", var_cur: " + str(2*np.sqrt(var_cur[9])) + "\n")
+
+                print(", n_cur: " + str(n_cur[11]) + ", data_cur: " + str(data_cur[11])
+                      + ", var_cur: " + str(2*np.sqrt(var_cur[11])) + "\n")
+
+                print(", n_cur: " + str(n_cur[13]) + ", data_cur: " + str(data_cur[13])
+                      + ", var_cur: " + str(2*np.sqrt(var_cur[13])) + "\n")
 
             lines = []
             count = 0
