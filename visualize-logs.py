@@ -286,7 +286,7 @@ def main():
             data.append(data_cur)
             var.append(var_cur)
 
-            if i == 1:
+            if i == 0:
                 if j == 0:
                     print("UCT: ")
                 elif j == 1:

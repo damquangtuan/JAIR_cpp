@@ -791,11 +791,12 @@ namespace poweruct {
 
                 double V = 0;
                 for (int i = 0; i < this->na; i++) {
-                    if (Q_sp_max[i] == 0) continue;
+                    if (Q_sp_max[i] == 0) break;
                     V += (Q_sp_max[i] * Q_sp_max[i]) - (sp_max * sp_max);
                 }
 
                 V = this->tau * (0.5 * V + 0.5);
+                V = (this->get_pre_exp_reward() / total_visits) + V;
                 return std::make_tuple(V, total_visits);
             }
         }
